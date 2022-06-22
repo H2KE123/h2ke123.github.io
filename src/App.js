@@ -82,7 +82,7 @@ function App() {
         <ProSidebar>
           <Menu iconShape="square">
             <Link to="/">
-              <MenuItem >Introduction</MenuItem>
+              <MenuItem >README</MenuItem>
             </Link>
               {
                 king_all.map((e, i) => (
