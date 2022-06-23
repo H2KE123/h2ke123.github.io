@@ -7,6 +7,7 @@ import {
   Routes,
 } from 'react-router-dom';
 import { YearView, IntroView } from "./components/Views";
+import ScrollToTop from './components/ScrollToTop';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'react-pro-sidebar/dist/css/styles.css';
 import './scss/sidebar.scss';
@@ -99,7 +100,9 @@ function App() {
               }
           </Menu>
         </ProSidebar>
+        <ScrollToTop>
       <Routes>
+        
         <Route exact path="/" element={<IntroView/>}/>
         {
           data_all.map((e, i )=> (
@@ -131,7 +134,9 @@ function App() {
             )
           )
         }
+        
       </Routes>
+      </ScrollToTop>
     </div>
     </Router>
     </body>

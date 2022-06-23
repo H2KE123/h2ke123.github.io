@@ -264,6 +264,7 @@
                 "H2KE-EN": "On sinmyo day, a solar halo appeared.\n",
                 "H2KE-nKo": "기묘년(1759, 영조35)에 햇무리가 졌다.\n",
                 "date_ko": "세종 99권, 25년(1443 계해 / 명 정통(正統) 8년) 1월 23일(기묘) 1번째기사",
+                "gt-EN": "A solar halo appeared.",
                 "gt-oKo": "햇무리하다.",
                 "hj": "○己卯/日暈。"
             },
@@ -367,6 +368,7 @@
                 "H2KE-EN": "On eulyu day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 99권, 25년(1443 계해 / 명 정통(正統) 8년) 1월 29일(을유) 1번째기사",
+                "gt-EN": "A solar halo appeared.",
                 "gt-oKo": "햇무리하다.",
                 "hj": "○乙酉/日暈。"
             }
@@ -516,6 +518,7 @@
                 "H2KE-EN": "On eulchuk day, a solar halo appeared.\n",
                 "H2KE-nKo": "을축년(1765, 영조51)에 햇무리가 졌다.\n",
                 "date_ko": "세종 99권, 25년(1443 계해 / 명 정통(正統) 8년) 1월 9일(을축) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○乙丑/日暈。"
             },
@@ -571,6 +574,7 @@
                 "H2KE-EN": "On byeongsin day, a solar halo appeared.\n",
                 "H2KE-nKo": "병신년(1776, 정조 즉위년)에 햇무리가 졌다.\n",
                 "date_ko": "세종 99권, 25년(1443 계해 / 명 정통(正統) 8년) 2월 10일(병신) 1번째기사",
+                "gt-EN": "A solar halo appeared.",
                 "gt-oKo": "햇무리하다.",
                 "hj": "○丙申/日暈。"
             }
@@ -820,6 +824,7 @@
                 "H2KE-EN": "On byeongo day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 99권, 25년(1443 계해 / 명 정통(正統) 8년) 2월 20일(병오) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丙午/日暈。"
             },
@@ -1022,6 +1027,7 @@
                 "H2KE-EN": "On gichuk day, Venus appeared during daylight hours.\n",
                 "H2KE-nKo": "태백성이 낮에 나타났다.\n",
                 "date_ko": "세종 99권, 25년(1443 계해 / 명 정통(正統) 8년) 2월 3일(기축) 1번째기사",
+                "gt-EN": "The Great White 太白 (Venus) appeared during the daylight hours.",
                 "gt-oKo": "태백성(太白星)이 낮에 나타났다.",
                 "hj": "○己丑/太白晝見。"
             },
@@ -1350,6 +1356,7 @@
                 "H2KE-EN": "On sinchuk day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 99권, 25년(1443 계해 / 명 정통(正統) 8년) 3월 5일(경신) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚申/日暈。"
             },
@@ -1366,6 +1373,7 @@
                 "H2KE-EN": "On sinhae day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 99권, 25년(1443 계해 / 명 정통(正統) 8년) 3월 6일(신유) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○辛酉/日暈。"
             }
@@ -1375,6 +1383,7 @@
                 "H2KE-EN": "On gyehae day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 99권, 25년(1443 계해 / 명 정통(正統) 8년) 3월 8일(계해) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○癸亥/日暈。"
             }
@@ -2096,6 +2105,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 100권, 25년(1443 계해 / 명 정통(正統) 8년) 5월 15일(기사) 3번째기사",
+                "gt-EN": "The King personally delivered the incense and invocation for the rite of the full moon day.",
                 "gt-oKo": "망제(望祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○親傳望祭香祝。"
             },
@@ -2202,6 +2212,7 @@
                 "H2KE-EN": "On byeongjin day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 100권, 25년(1443 계해 / 명 정통(正統) 8년) 5월 2일(병진) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丙辰/日暈。"
             },
@@ -2381,6 +2392,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "계미년(1763, 영조39) 삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 100권, 25년(1443 계해 / 명 정통(正統) 8년) 5월 29일(계미) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and the written invocation to be used for the rite of the new moon day.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○癸未/親傳朔祭香祝。"
             }
@@ -2438,6 +2450,7 @@
                 "H2KE-EN": "The King prayed for rain at the Royal Ancestral Shrine.\n",
                 "H2KE-nKo": "종묘에서 기우제를 지냈다.\n",
                 "date_ko": "세종 100권, 25년(1443 계해 / 명 정통(正統) 8년) 5월 6일(경신) 2번째기사",
+                "gt-EN": "The King prayed for rain at the Royal Ancestral Shrine 宗廟.",
                 "gt-oKo": "종묘에서 비를 빌었다.",
                 "hj": "○禱雨于宗廟。"
             },
@@ -2569,6 +2582,7 @@
                 "H2KE-EN": "On gyesa day, Venus appeared during the daylight hours.\n",
                 "H2KE-nKo": "태백성이 낮에 나타났다.\n",
                 "date_ko": "세종 100권, 25년(1443 계해 / 명 정통(正統) 8년) 6월 10일(계사) 1번째기사",
+                "gt-EN": "The Great White 太白 (Venus) appeared during the daylight hours.",
                 "gt-oKo": "태백성(太白星)이 낮에 나타났다.",
                 "hj": "○癸巳/太白晝見。"
             },
@@ -3004,6 +3018,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 100권, 25년(1443 계해 / 명 정통(正統) 8년) 6월 30일(계축) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and the written invocation to be used for the rite of the new moon day.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○癸丑/親傳朔祭香祝。"
             },
@@ -3512,6 +3527,7 @@
                 "H2KE-EN": "On sinhae day, it rained heavily.\n",
                 "H2KE-nKo": "비가 내렸다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 7월 19일(임신) 1번째기사",
+                "gt-EN": "On euryu day, rain fell.",
                 "gt-oKo": "비가 내렸다.",
                 "hj": "○壬申/雨。"
             },
@@ -3669,6 +3685,7 @@
                 "H2KE-EN": "On byeongja day, it rained heavily in byeongja year.\n",
                 "H2KE-nKo": "비가 내렸다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 7월 23일(병자) 1번째기사",
+                "gt-EN": "It rained.",
                 "gt-oKo": "비 왔다.",
                 "hj": "○丙子/雨。"
             },
@@ -3713,6 +3730,7 @@
                 "H2KE-EN": "Heavy rain fell in jeongchuk year (.\n",
                 "H2KE-nKo": "정축년(1797, 정조14)에 큰비가 내렸다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 7월 24일(정축) 1번째기사",
+                "gt-EN": "Heavy rain fell.",
                 "gt-oKo": "큰 비가 내렸다.",
                 "hj": "○丁丑/大雨。"
             },
@@ -3750,6 +3768,7 @@
                 "H2KE-EN": "On gabin day, it rained in muin year (.\n",
                 "H2KE-nKo": "비가 내렸다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 7월 25일(무인) 1번째기사",
+                "gt-EN": "On sinyu day, it rained.",
                 "gt-oKo": "비가 왔다.",
                 "hj": "○戊寅/雨。"
             },
@@ -3877,6 +3896,7 @@
                 "H2KE-EN": "On imo day, it rained heavily.\n",
                 "H2KE-nKo": "장맛비가 내렸다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 7월 29일(임오) 1번째기사",
+                "gt-EN": "On sinyu day, it rained.",
                 "gt-oKo": "비가 왔다.",
                 "hj": "○壬午/雨。"
             },
@@ -3884,6 +3904,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 7월 29일(임오) 2번째기사",
+                "gt-EN": "The King personally delivered incense and the written ritual prayer to be used at the rite of the new moon 朔祭.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향(香)과 축문(祝文)을 친히 전하였다.",
                 "hj": "○親傳朔祭香祝。"
             },
@@ -4179,6 +4200,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day .\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 8월 14일(병신) 1번째기사",
+                "gt-EN": "On eulmi day, the King personally handed out the incense and the written invocation which would be used in the rite of the full moon.",
                 "gt-oKo": "친히 망제(望祭)에 쓸 향(香)과 축문(祝文)을 전하였다.",
                 "hj": "○丙申/親傳望祭香祝。"
             }
@@ -4280,6 +4302,7 @@
                 "H2KE-EN": "On gapjin day, it rained heavily in gabo year (.\n",
                 "H2KE-nKo": "비가 내렸다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 8월 2일(갑신) 1번째기사",
+                "gt-EN": "It rained.",
                 "gt-oKo": "비 왔다.",
                 "hj": "○甲申/雨。"
             },
@@ -4429,6 +4452,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the new moon day at the sinhae year.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 8월 29일(신해) 1번째기사",
+                "gt-EN": "[The King] personally conveyed the incense and written invocation for the rite of the new moon.",
                 "gt-oKo": "친히 삭제(朔祭)에 쓸 향(香)과 축문(祝文)을 전하였다.",
                 "hj": "○辛亥/親傳朔祭香祝。"
             },
@@ -4687,6 +4711,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day.\n",
                 "H2KE-nKo": "을축년(1765, 영조41)의 망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 9월 14일(을축) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "친히 망제(望祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○乙丑/親傳望祭香祝。"
             },
@@ -5020,6 +5045,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "초하룻날 삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 101권, 25년(1443 계해 / 명 정통(正統) 8년) 9월 30일(신사) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.",
                 "gt-oKo": "친히 삭제(朔祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○辛巳/親傳朔祭香祝。"
             }
@@ -5166,6 +5192,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day at the eulmi year (.\n",
                 "H2KE-nKo": "을미년(1775, 영조51)의 망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 102권, 25년(1443 계해 / 명 정통(正統) 8년) 10월 14일(을미) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "친히 망제(望祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○乙未/親傳望祭香祝。"
             }
@@ -5283,6 +5310,7 @@
                 "H2KE-EN": "On sinchuk day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "신축년(1781, 정조5)의 시사를 행하였다.\n",
                 "date_ko": "세종 102권, 25년(1443 계해 / 명 정통(正統) 8년) 10월 20일(신축) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○辛丑/視事。"
             },
@@ -5511,6 +5539,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the new moon day at the sinhae year.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 102권, 25년(1443 계해 / 명 정통(正統) 8년) 10월 30일(신해) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.",
                 "gt-oKo": "친히 삭제(朔祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○辛亥/親傳朔祭香祝。"
             },
@@ -5573,6 +5602,7 @@
                 "H2KE-EN": "On muja day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "무자년(1768, 영조44)의 전강을 행하였다.\n",
                 "date_ko": "세종 102권, 25년(1443 계해 / 명 정통(正統) 8년) 10월 7일(무자) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○戊子/視事。"
             },
@@ -5708,6 +5738,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day.\n",
                 "H2KE-nKo": "을축년(1765, 영조41)의 망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 102권, 25년(1443 계해 / 명 정통(正統) 8년) 11월 14일(을축) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "친히 망제(望祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○乙丑/親傳望祭香祝。"
             },
@@ -6302,6 +6333,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the full moon day at the gabo year (.\n",
                 "H2KE-nKo": "갑오년(1774, 영조50) 망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 102권, 25년(1443 계해 / 명 정통(正統) 8년) 12월 14일(갑오) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and invocation for the rite of the full moon day.",
                 "gt-oKo": "망제(望祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○甲午/親傳望祭香祝。"
             },
@@ -6389,6 +6421,7 @@
                 "H2KE-EN": "On imo day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 102권, 25년(1443 계해 / 명 정통(正統) 8년) 12월 2일(임오) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○壬午/日暈。"
             },
@@ -6558,6 +6591,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day in the gyeongsul year (.\n",
                 "H2KE-nKo": "경술년(1790, 정조14) 삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 102권, 25년(1443 계해 / 명 정통(正統) 8년) 12월 30일(경술) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and the written invocation to be used for the rite of the new moon day.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○庚戌/親傳朔祭香祝。"
             },

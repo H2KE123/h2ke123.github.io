@@ -27,7 +27,11 @@ function Item(props) {
                         (props.gt_en)
                         ?    <tr>
                         <th> gt-EN </th>
+<<<<<<< HEAD
                         <td> {props.gt_nko} </td>
+=======
+                        <td> {props.gt_en} </td>
+>>>>>>> test
                         </tr>
                         : null
                     }

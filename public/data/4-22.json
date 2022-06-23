@@ -97,6 +97,7 @@
                 "H2KE-EN": "The King proceeded to the eastern outskirts of the capital and viewed hunting activities.\n",
                 "H2KE-nKo": "동교로 행행하여 사냥하는 것을 구경하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 1월 13일(병진) 1번째기사",
+                "gt-EN": "The King proceeded to the eastern outskirts 東郊 of the capital and viewed hunting activities.",
                 "gt-oKo": "동교(東郊)에 거둥하여 사냥하는 것을 구경하였다.",
                 "hj": "○丙辰/幸東郊觀獵。"
             }
@@ -152,6 +153,7 @@
                 "H2KE-EN": "A lunar eclipse occurred.\n",
                 "H2KE-nKo": "월식이 있었다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 1월 16일(기미) 1번째기사",
+                "gt-EN": "On muin day, a lunar eclipse occurred.",
                 "gt-oKo": "월식(月食)하였다.",
                 "hj": "○己未/月食。"
             },
@@ -402,6 +404,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 1월 30일(계유) 2번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.",
                 "gt-oKo": "친히 삭제(朔祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○親傳朔祭香祝。"
             },
@@ -569,6 +572,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day at the jeonghae day.\n",
                 "H2KE-nKo": "정해년(1767, 영조43)의 망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 2월 14일(정해) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "친히 망제(望祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○丁亥/親傳望祭香祝。"
             },
@@ -585,6 +589,7 @@
                 "H2KE-EN": "On muja day, the King received the daily audience in the muja year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 2월 15일(무자) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊子/受常參。"
             }
@@ -725,6 +730,7 @@
                 "H2KE-EN": "On byeongjin day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "정사를 보았다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 2월 23일(병신) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○(丙辰)〔丙申〕/視事。"
             },
@@ -776,6 +782,7 @@
                 "H2KE-EN": "On musul day, the King received officials in the daily audience in the musul year (.\n",
                 "H2KE-nKo": "무술년(1778, 정조2)에 상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 2월 25일(무술) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊戌/受常參。"
             },
@@ -815,6 +822,7 @@
                 "H2KE-EN": "The King received officials in the daily audience in gyeongja year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 2월 27일(경자) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○庚子/受常參。"
             },
@@ -831,6 +839,7 @@
                 "H2KE-EN": "On sinchuk day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "신축년(1781, 정조5)에 상참을 받았다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 2월 28일(신축) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○辛丑/受常參。"
             },
@@ -854,6 +863,7 @@
                 "H2KE-EN": "On imin day, the King received the daily audience in the imin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 2월 29일(임인) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○壬寅/受常參。"
             },
@@ -861,6 +871,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 2월 29일(임인) 2번째기사",
+                "gt-EN": "[The King] personally conveyed the incense and written invocation for the rite of the new moon.",
                 "gt-oKo": "친히 삭제(朔祭)에 쓸 향(香)과 축문(祝文)을 전하였다.",
                 "hj": "○親傳朔祭香祝。"
             },
@@ -1100,6 +1111,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day at the byeongjin year (.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 14일(병진) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "친히 망제(望祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○丙辰/親傳望祭香祝。"
             },
@@ -1148,6 +1160,7 @@
                 "H2KE-EN": "On gyemi day, the King received the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 17일(기미) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○己未/受常參。"
             },
@@ -1178,6 +1191,7 @@
                 "H2KE-EN": "On gyemyo day, the King received the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 19일(신유) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○辛酉/受常參。"
             },
@@ -1231,6 +1245,7 @@
                 "H2KE-EN": "On sinhae day, the King received the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 20일(임술) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○壬戌/受常參。"
             },
@@ -1279,6 +1294,7 @@
                 "H2KE-EN": "On sinchuk day, the King received officials in the daily audience in the eulchuk year (.\n",
                 "H2KE-nKo": "을축년(1755, 영조31)의 상참을 받았다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 23일(을축) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○乙丑/受常參。"
             },
@@ -1300,6 +1316,7 @@
                 "H2KE-EN": "On sinhae day, the King received the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 24일(병인) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○丙寅/受常參。"
             },
@@ -1323,6 +1340,7 @@
                 "H2KE-EN": "On jeongmyo day, the King received the daily audience in the jeongmyo day.\n",
                 "H2KE-nKo": "정묘년(1747, 영조23)에 상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 25일(정묘) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○丁卯/受常參。"
             },
@@ -1348,6 +1366,7 @@
                 "H2KE-EN": "On sinsa day, the King received the officials in the daily audience in the gisa year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 27일(기사) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○己巳/受常參。"
             },
@@ -1371,6 +1390,7 @@
                 "H2KE-EN": "On gyeongo day, the King received officials in the daily audience in the gyeongo year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 28일(경오) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○庚午/受常參。"
             },
@@ -1401,6 +1421,7 @@
                 "H2KE-EN": "Shin Mimi received the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 29일(신미) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○辛未/受常參。"
             },
@@ -1408,6 +1429,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 29일(신미) 2번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.",
                 "gt-oKo": "친히 삭제(朔祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○親傳朔祭香祝。"
             }
@@ -1417,6 +1439,7 @@
                 "H2KE-EN": "On eulsa day, the King received officials in the daily audience in the eulsa year.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 3일(을사) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○乙巳/受常參。"
             },
@@ -1449,6 +1472,7 @@
                 "H2KE-EN": "The King received the daily audience in the jeongmi daytime.\n",
                 "H2KE-nKo": "정미년(1787, 정조11)에 상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 5일(정미) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○丁未/受常參。"
             },
@@ -1493,6 +1517,7 @@
                 "H2KE-EN": "On giyu day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 7일(기유) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○己酉/受常參。"
             },
@@ -1525,6 +1550,7 @@
                 "H2KE-EN": "On sinhae day, the King traveled to the eastern suburbs of the capital to view hunting activities.\n",
                 "H2KE-nKo": "신해년(1771, 정조7)에 동교에 행행하여 사냥하는 것을 구경하였다.\n",
                 "date_ko": "세종 88권, 22년(1440 경신 / 명 정통(正統) 5년) 3월 9일(신해) 1번째기사",
+                "gt-EN": "The King proceeded to the eastern outskirts 東郊 of the capital and viewed hunting activities.",
                 "gt-oKo": "동교(東郊)에 거둥하여 사냥하는 것을 구경하였다.",
                 "hj": "○辛亥/幸東郊觀獵。"
             },
@@ -1616,6 +1642,7 @@
                 "H2KE-EN": "On eulyu day, the King received officials in the daily audience in eulyu year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 14일(을유) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○乙酉/受常參。"
             },
@@ -1623,6 +1650,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 14일(을유) 2번째기사",
+                "gt-EN": "The King personally delivered the incense and invocation for the rite of the full moon day.",
                 "gt-oKo": "망제(望祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○親傳望祭香祝。"
             },
@@ -1699,6 +1727,7 @@
                 "H2KE-EN": "On muja day, the King received the daily audience in the muja year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 17일(무자) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊子/受常參。"
             },
@@ -1745,6 +1774,7 @@
                 "H2KE-EN": "On gyeongin day, the King received the officials in the daily audience in the gyeongin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 19일(경인) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○庚寅/受常參。"
             }
@@ -1754,6 +1784,7 @@
                 "H2KE-EN": "On gyeyu day, the King received the officials in the daily audience in the gyeyu year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 2일(계유) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○癸酉/受常參。"
             },
@@ -1777,6 +1808,7 @@
                 "H2KE-EN": "On sinhae day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 20일(신묘) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○辛卯/受常參。"
             },
@@ -1809,6 +1841,7 @@
                 "H2KE-EN": "On gabo day, the King received the daily audience in the gabo year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 22일(갑오) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○甲午/受常參。"
             },
@@ -1816,6 +1849,7 @@
                 "H2KE-EN": "The King prayed for rain at the northern outskirts of the capital.\n",
                 "H2KE-nKo": "북교에서 기우제를 지냈다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 22일(갑오) 2번째기사",
+                "gt-EN": "The King prayed for rain at the northern outskirts [of the capital].",
                 "gt-oKo": "북교(北郊)에서 비를 빌었다.",
                 "hj": "○祈雨于北郊。"
             },
@@ -1846,6 +1880,7 @@
                 "H2KE-EN": "On eulmi day, the King received officials in the daily audience in the eulmi year (.\n",
                 "H2KE-nKo": "을미년(1775, 영조51)에 상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 23일(을미) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○乙未/受常參。"
             },
@@ -2038,6 +2073,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "신축년(1781, 정조5) 삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 29일(신축) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and the written invocation to be used for the rite of the new moon day.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○辛丑/親傳朔祭香祝。"
             },
@@ -2075,6 +2111,7 @@
                 "H2KE-EN": "On gapja day, the King received officials in the daily audience in the gapjin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 3일(갑술) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○甲戌/受常參。"
             },
@@ -2091,6 +2128,7 @@
                 "H2KE-EN": "On eulhae day, the King received the daily audience in the eulhae year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 4일(을해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○乙亥/受常參。"
             },
@@ -2107,6 +2145,7 @@
                 "H2KE-EN": "On byeongja day, the King received officials in the daily audience in byeongja year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 4월 5일(병자) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○丙子/受常參。"
             },
@@ -2279,6 +2318,7 @@
                 "H2KE-EN": "Heavy rain fell in the gapjin year.\n",
                 "H2KE-nKo": "큰비가 내렸다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 5월 13일(갑인) 1번째기사",
+                "gt-EN": "Heavy rain fell.",
                 "gt-oKo": "큰비가 내리었다.",
                 "hj": "○甲寅/大雨。"
             },
@@ -2332,6 +2372,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day at the byeongjin year (.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 5월 15일(병진) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and invocation for the rite of the full moon day.",
                 "gt-oKo": "망제(望祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○丙辰/親傳望祭香祝。"
             },
@@ -2553,6 +2594,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day at the gyeongo year (.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 5월 29일(경오) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and the written invocation to be used for the rite of the new moon day.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○庚午/親傳朔祭香祝。"
             },
@@ -2721,6 +2763,7 @@
                 "H2KE-EN": "On gyeongsul day, a solar halo appeared.\n",
                 "H2KE-nKo": "경술년(1790, 정조14)에 햇무리가 졌다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 5월 9일(경술) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚戌/日暈。"
             },
@@ -2836,6 +2879,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the full moon day in the gapsin year (.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 89권, 22년(1440 경신 / 명 정통(正統) 5년) 6월 14일(갑신) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and invocation for the rite of the full moon day.",
                 "gt-oKo": "망제(望祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○甲申/親傳望祭香祝。"
             },
@@ -3376,6 +3420,7 @@
                 "H2KE-EN": "On gyechuk day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "주상이 계축년(1783, 정조7)의 정사를 보았다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 7월 13일(계축) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○癸丑/視事。"
             },
@@ -3450,6 +3495,7 @@
                 "H2KE-EN": "On byeongjin day, a lunar eclipse occurred.\n",
                 "H2KE-nKo": "월식이 있었다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 7월 16일(병진) 1번째기사",
+                "gt-EN": "On muin day, a lunar eclipse occurred.",
                 "gt-oKo": "월식(月食)하였다.",
                 "hj": "○丙辰/月食。"
             }
@@ -3694,6 +3740,7 @@
                 "H2KE-EN": "On sinsa day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "기사년(1789, 정조15)의 시사를 행하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 7월 29일(기사) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○己巳/視事。"
             },
@@ -3701,6 +3748,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 7월 29일(기사) 2번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.",
                 "gt-oKo": "친히 삭제(朔祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○親傳朔祭香祝。"
             },
@@ -3981,6 +4029,7 @@
                 "H2KE-EN": "On jeonghae day, the King received the daily audience in Jeonghae .\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 18일(정해) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○丁亥/受常參。"
             },
@@ -3988,6 +4037,7 @@
                 "H2KE-EN": "On gyemyo day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "정사를 보았다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 18일(정해) 2번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○視事。"
             }
@@ -3997,6 +4047,7 @@
                 "H2KE-EN": "On muja day, the King received the daily audience in the muja year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 19일(무자) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊子/受常參。"
             },
@@ -4036,6 +4087,7 @@
                 "H2KE-EN": "On gichuk day, the King received officials in the daily audience in the gichuk year (.\n",
                 "H2KE-nKo": "기축년(1769, 영조45)에 상참을 행하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 20일(기축) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○己丑/受常參。"
             },
@@ -4089,6 +4141,7 @@
                 "H2KE-EN": "On sinhae day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 22일(신묘) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○辛卯/受常參。"
             }
@@ -4098,6 +4151,7 @@
                 "H2KE-EN": "The King received officials in the daily audience in the imjin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 23일(임진) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○壬辰/受常參。"
             }
@@ -4162,6 +4216,7 @@
                 "H2KE-EN": "On byeongsin day, the King received officials in the daily audience in the byeongsin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 27일(병신) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○丙申/受常參。"
             },
@@ -4199,6 +4254,7 @@
                 "H2KE-EN": "On jeongyu day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "정유년(1777, 정조1)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 28일(정유) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○丁酉/受常參, 視事。"
             }
@@ -4208,6 +4264,7 @@
                 "H2KE-EN": "On musul day, the King received officials in the daily audience in the musul year (.\n",
                 "H2KE-nKo": "무술년(1778, 정조2)에 상참을 행하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 29일(무술) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊戌/受常參。"
             },
@@ -4261,6 +4318,7 @@
                 "H2KE-EN": "On gihae day, the King received the daily audience in the gihae year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 8월 30일(기해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○己亥/受常參。"
             },
@@ -4511,6 +4569,7 @@
                 "H2KE-EN": "The King personally sent incense and written invocations to be used at the rite of the full moon day.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 9월 14일(계축) 1번째기사",
+                "gt-EN": "The King personally handed out the incense and the written prayer to be used in the rite of the full moon day.",
                 "gt-oKo": "망제(望祭)에 쓸 향(香)과 축문(祝文)을 친히 전하였다.",
                 "hj": "○癸丑/親傳望祭香祝。"
             },
@@ -4584,6 +4643,7 @@
                 "H2KE-EN": "On sinchuk day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "신축년(1781, 정조5)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 9월 2일(신축) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○辛丑/受常參, 視事。"
             },
@@ -4719,6 +4779,7 @@
                 "H2KE-EN": "On gyemyo day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "계묘년(1783, 정조7)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 90권, 22년(1440 경신 / 명 정통(正統) 5년) 9월 4일(계묘) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○癸卯/受常參, 視事。"
             },
@@ -4828,6 +4889,7 @@
                 "H2KE-EN": "On sinhae day, the King received the daily audience in the sinsa year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 10월 12일(신사) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○辛巳/受常參。"
             },
@@ -4858,6 +4920,7 @@
                 "H2KE-EN": "On imo day, the King received the daily audience in the imo year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 10월 13일(임오) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○壬午/受常參。"
             }
@@ -4867,6 +4930,7 @@
                 "H2KE-EN": "On gyemi day, the King received the daily audience in the gyemi year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 10월 14일(계미) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○癸未/受常參。"
             },
@@ -4950,6 +5014,7 @@
                 "H2KE-EN": "On byeongsul day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "병술년(1766, 영조42)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 10월 17일(병술) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○丙戌/受常參, 視事。"
             },
@@ -4966,6 +5031,7 @@
                 "H2KE-EN": "On jeonghae day, the King received the daily audience in Jeonghae .\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 10월 18일(정해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○丁亥/受常參。"
             },
@@ -4982,6 +5048,7 @@
                 "H2KE-EN": "On muja day, the King received the daily audience in the muja year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 10월 19일(무자) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊子/受常參。"
             },
@@ -5039,6 +5106,7 @@
                 "H2KE-EN": "On sinhae day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 10월 22일(신묘) 2번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○受常參。"
             },
@@ -5071,6 +5139,7 @@
                 "H2KE-EN": "The King received the daily audience in the gyesa year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 10월 24일(계사) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○癸巳/受常參。"
             },
@@ -5119,6 +5188,7 @@
                 "H2KE-EN": "On byeongsin day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 10월 27일(병신) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○丙申/受常參, 視事。"
             }
@@ -5311,6 +5381,7 @@
                 "H2KE-EN": "On giyu day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 11월 10일(기유) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○己酉/受常參。"
             },
@@ -5368,6 +5439,7 @@
                 "H2KE-EN": "The King personally sent incense and written invocations to be used at the rite of the full moon day.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 11월 14일(계축) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "친히 망제(望祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○癸丑/親傳望祭香祝。"
             },
@@ -5409,6 +5481,7 @@
                 "H2KE-EN": "On byeongjin day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 11월 17일(병진) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○丙辰/受常參, 視事。"
             },
@@ -5448,6 +5521,7 @@
                 "H2KE-EN": "On sinchuk day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "신축년(1781, 정조5)에 상참을 받았다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 11월 2일(신축) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○辛丑/受常參。"
             }
@@ -5597,6 +5671,7 @@
                 "H2KE-EN": "On imin day, the King received the daily audience in the imin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 11월 3일(임인) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○壬寅/受常參。"
             }
@@ -5606,6 +5681,7 @@
                 "H2KE-EN": "On gyemyo day, the King received the daily audience in the gyemyo year (.\n",
                 "H2KE-nKo": "계묘년(1783, 정조7)에 상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 11월 4일(계묘) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○癸卯/受常參。"
             }
@@ -5647,6 +5723,7 @@
                 "H2KE-EN": "On jeongmi day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "정미년(1787, 정조11)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 11월 8일(정미) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○丁未/受常參, 視事。"
             },
@@ -5670,6 +5747,7 @@
                 "H2KE-EN": "The King received the daily audience in the musin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 11월 9일(무신) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊申/受常參。"
             },
@@ -5747,6 +5825,7 @@
                 "H2KE-EN": "On eulyu day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "을유년(1765, 영조41)의 친상을 행하였다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 12월 16일(을유) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○乙酉/視事。"
             }
@@ -5902,6 +5981,7 @@
                 "H2KE-EN": "On jeongyu day, a solar halo appeared.\n",
                 "H2KE-nKo": "정유년(1777, 정조1)에 햇무리가 졌다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 12월 28일(정유) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丁酉/日暈。"
             },
@@ -5925,6 +6005,7 @@
                 "H2KE-EN": "On sinhae day, it was foggy.\n",
                 "H2KE-nKo": "임신년(1752, 영조28) 안개가 끼었다.\n",
                 "date_ko": "세종 91권, 22년(1440 경신 / 명 정통(正統) 5년) 12월 3일(임신) 1번째기사",
+                "gt-EN": "On jeongyu day, there was fog.",
                 "gt-oKo": "안개가 끼었다.",
                 "hj": "○壬申/霧。"
             },

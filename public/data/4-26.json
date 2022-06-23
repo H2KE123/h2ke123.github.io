@@ -363,6 +363,7 @@
                 "H2KE-EN": "On gyechuk day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 103권, 26년(1444 갑자 / 명 정통(正統) 9년) 1월 3일(계축) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○癸丑/日暈。"
             },
@@ -393,6 +394,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day in gyeongjin year (.\n",
                 "H2KE-nKo": "경진년(1760, 영조36)의 삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 103권, 26년(1444 갑자 / 명 정통(正統) 9년) 1월 30일(경진) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.",
                 "gt-oKo": "친히 삭제(朔祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○庚辰/親傳朔祭香祝。"
             },
@@ -548,6 +550,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the full moon day at the gabo year (.\n",
                 "H2KE-nKo": "갑오년(1774, 영조50) 망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 103권, 26년(1444 갑자 / 명 정통(正統) 9년) 2월 14일(갑오) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "친히 망제(望祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○甲午/親傳望祭香祝。"
             },
@@ -1177,6 +1180,7 @@
                 "H2KE-EN": "On byeongja day, a solar halo appeared.\n",
                 "H2KE-nKo": "병자년(1766, 영조3)에 햇무리가 졌다.\n",
                 "date_ko": "세종 103권, 26년(1444 갑자 / 명 정통(正統) 9년) 3월 26일(병자) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丙子/日暈。"
             },
@@ -1496,6 +1500,7 @@
                 "H2KE-EN": "On musul day, a solar halo appeared.\n",
                 "H2KE-nKo": "무술년(1778, 정조2)에 햇무리가 졌다.\n",
                 "date_ko": "세종 104권, 26년(1444 갑자 / 명 정통(正統) 9년) 4월 19일(무술) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○戊戌/日暈。"
             },
@@ -1535,6 +1540,7 @@
                 "H2KE-EN": "On gihae day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 104권, 26년(1444 갑자 / 명 정통(正統) 9년) 4월 20일(기해) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○己亥/日暈。"
             }
@@ -1654,6 +1660,7 @@
                 "H2KE-EN": "On jeongmi day, hail fell in jeongmi day.\n",
                 "H2KE-nKo": "정미년(1787, 정조11)에 우박이 내렸다.\n",
                 "date_ko": "세종 104권, 26년(1444 갑자 / 명 정통(正統) 9년) 4월 28일(정미) 1번째기사",
+                "gt-EN": "On gabo day, hail fell.",
                 "gt-oKo": "우박이 내렸다.",
                 "hj": "○丁未/雨雹。"
             },
@@ -1691,6 +1698,7 @@
                 "H2KE-EN": "On musin day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 104권, 26년(1444 갑자 / 명 정통(正統) 9년) 4월 29일(무신) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○戊申/日暈。"
             },
@@ -1812,6 +1820,7 @@
                 "H2KE-EN": "On musul day, a solar halo appeared.\n",
                 "H2KE-nKo": "경술년(1790, 정조14)에 햇무리가 졌다.\n",
                 "date_ko": "세종 104권, 26년(1444 갑자 / 명 정통(正統) 9년) 5월 1일(경술) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚戌朔/日暈。"
             },
@@ -1842,6 +1851,7 @@
                 "H2KE-EN": "On gyemi day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 104권, 26년(1444 갑자 / 명 정통(正統) 9년) 5월 10일(기미) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○己未/日暈。"
             },
@@ -1964,6 +1974,7 @@
                 "H2KE-EN": "On gapja day, a lunar eclipse occurred.\n",
                 "H2KE-nKo": "갑자년(1744, 영조20) 월식이 있었다.\n",
                 "date_ko": "세종 104권, 26년(1444 갑자 / 명 정통(正統) 9년) 5월 15일(갑자) 1번째기사",
+                "gt-EN": "On muin day, a lunar eclipse occurred.",
                 "gt-oKo": "월식(月食)하였다.",
                 "hj": "○甲子/月食。"
             },
@@ -2424,6 +2435,7 @@
                 "H2KE-EN": "On jeongmi day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 104권, 26년(1444 갑자 / 명 정통(正統) 9년) 5월 8일(정사) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丁巳/日暈。"
             },
@@ -2723,6 +2735,7 @@
                 "H2KE-EN": "On gihae day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 104권, 26년(1444 갑자 / 명 정통(正統) 9년) 6월 21일(기해) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○己亥/日暈。"
             },
@@ -4506,6 +4519,7 @@
                 "H2KE-EN": "On byeongo day, a solar eclipse occurred on the first day of the fifth month.\n",
                 "H2KE-nKo": "일식이 있었다.\n",
                 "date_ko": "세종 106권, 26년(1444 갑자 / 명 정통(正統) 9년) 10월 1일(병오) 1번째기사",
+                "gt-EN": "On gyechuk day, the first day of the month, a solar eclipse appeared.",
                 "gt-oKo": "일식하였다.",
                 "hj": "○丙午朔/日有食之。"
             },
@@ -5091,6 +5105,7 @@
                 "H2KE-EN": "On gyesa day, Venus appeared during the daylight hours.\n",
                 "H2KE-nKo": "태백성이 낮에 나타났다.\n",
                 "date_ko": "세종 106권, 26년(1444 갑자 / 명 정통(正統) 9년) 11월 18일(계사) 1번째기사",
+                "gt-EN": "The Great White Star 太白星 (Venus) appeared during the day.",
                 "gt-oKo": "태백성(太白星)이 낮에 보였다.",
                 "hj": "○癸巳/太白晝見。"
             },
@@ -5297,6 +5312,7 @@
                 "H2KE-EN": "On sinhae day, Venus appeared during the daylight hours.\n",
                 "H2KE-nKo": "태백성이 낮에 나타났다.\n",
                 "date_ko": "세종 106권, 26년(1444 갑자 / 명 정통(正統) 9년) 11월 6일(신사) 1번째기사",
+                "gt-EN": "The Great White 太白 (Venus) appeared during the daylight hours.",
                 "gt-oKo": "태백성(太白星)이 낮에 나타났다.",
                 "hj": "○辛巳/太白晝見。"
             },
@@ -5327,6 +5343,7 @@
                 "H2KE-EN": "On sinhae day, Venus appeared during daylight hours.\n",
                 "H2KE-nKo": "태백성이 낮에 나타났다.\n",
                 "date_ko": "세종 106권, 26년(1444 갑자 / 명 정통(正統) 9년) 11월 7일(임오) 1번째기사",
+                "gt-EN": "On imja day, Venus appeared during daylight hours.",
                 "gt-oKo": "태백성이 낮에 보였다.",
                 "hj": "○壬午/太白晝見。"
             },
