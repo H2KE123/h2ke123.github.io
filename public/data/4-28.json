@@ -700,6 +700,7 @@
                 "H2KE-EN": "On imja day, a solar halo appeared.\n",
                 "H2KE-nKo": "임자년(1792, 정조16)에 햇무리가 졌다.\n",
                 "date_ko": "세종 111권, 28년(1446 병인 / 명 정통(正統) 11년) 2월 14일(임자) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○壬子/日暈。"
             }
@@ -931,6 +932,7 @@
                 "H2KE-EN": "On sinchuk day, a solar halo appeared.\n",
                 "H2KE-nKo": "신축년(1781, 정조5)에 햇무리가 졌다.\n",
                 "date_ko": "세종 111권, 28년(1446 병인 / 명 정통(正統) 11년) 2월 3일(신축) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○辛丑/日暈。"
             },
@@ -961,6 +963,7 @@
                 "H2KE-EN": "On imin day, a solar halo appeared.\n",
                 "H2KE-nKo": "임인년(1782, 정조6)에 햇무리가 졌다.\n",
                 "date_ko": "세종 111권, 28년(1446 병인 / 명 정통(正統) 11년) 2월 4일(임인) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○壬寅/日暈。"
             },
@@ -1127,6 +1130,7 @@
                 "H2KE-EN": "On gyemi day, a solar halo appeared.\n",
                 "H2KE-nKo": "계미년(1783, 정조7)에 햇무리가 졌다.\n",
                 "date_ko": "세종 111권, 28년(1446 병인 / 명 정통(正統) 11년) 3월 16일(계미) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○癸未/日暈。"
             },
@@ -1604,6 +1608,7 @@
                 "H2KE-EN": "On musin day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 112권, 28년(1446 병인 / 명 정통(正統) 11년) 4월 11일(무신) 1번째기사",
+                "gt-EN": "On sinsa day, a ring around the sun appeared.",
                 "gt-oKo": "햇무리를 하였다.",
                 "hj": "○戊申/日暈。"
             },
@@ -3613,6 +3618,7 @@
                 "H2KE-EN": "Heavy rain fell in the gyeongo year (.\n",
                 "H2KE-nKo": "큰비가 내렸다.\n",
                 "date_ko": "세종 113권, 28년(1446 병인 / 명 정통(正統) 11년) 7월 4일(경오) 1번째기사",
+                "gt-EN": "Heavy rain fell.",
                 "gt-oKo": "큰비가 왔다.",
                 "hj": "○庚午/大雨。"
             },
@@ -3698,6 +3704,7 @@
                 "H2KE-EN": "On gapsul day, a solar halo appeared.\n",
                 "H2KE-nKo": "갑술년(1764, 영조40)에 햇무리가 졌다.\n",
                 "date_ko": "세종 113권, 28년(1446 병인 / 명 정통(正統) 11년) 7월 8일(갑술) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○甲戌/日暈。"
             },
@@ -4657,6 +4664,7 @@
                 "H2KE-EN": "On mujin day, there was thunder and lightning.\n",
                 "H2KE-nKo": "무술년(1778, 정조2)에 천둥이 치고 비가 내렸다.\n",
                 "date_ko": "세종 114권, 28년(1446 병인 / 명 정통(正統) 11년) 10월 4일(무술) 1번째기사",
+                "gt-EN": "On gabin day, a thunderstorm occurred.",
                 "gt-oKo": "천둥하고 비가 왔다.",
                 "hj": "○戊戌/雷雨。"
             },
