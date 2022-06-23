@@ -350,6 +350,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the spring state sacrifice .\n",
                 "H2KE-nKo": "춘향 대제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 92권, 23년(1441 신유 / 명 정통(正統) 6년) 1월 8일(병오) 1번째기사",
+                "gt-EN": "The King sent in person the incense and written invocation to be used in the spring state sacrifices.",
                 "gt-oKo": "춘향(春享)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○丙午/親傳春享香祝。"
             },
@@ -455,6 +456,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day at the sinsa year (.\n",
                 "H2KE-nKo": "신사년(1761, 영조47) 망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 92권, 23년(1441 신유 / 명 정통(正統) 6년) 2월 14일(신사) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "친히 망제(望祭)에 쓸 향과 축문을 전하였다.",
                 "hj": "○辛巳/親傳望祭香祝。"
             },
@@ -712,6 +714,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the wind, cloud, thunder, and rain.\n",
                 "H2KE-nKo": "풍운뇌우제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 92권, 23년(1441 신유 / 명 정통(正統) 6년) 2월 3일(경오) 1번째기사",
+                "gt-EN": "The King personally sent incense and written invocations to be used at the rite of praying for favorable weather.",
                 "gt-oKo": "풍운뇌우제(風雲雷雨祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○庚午/親傳風雲雷雨祭香祝。"
             },
@@ -864,6 +867,7 @@
                 "H2KE-EN": "On byeongja day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "병자년(1756, 영조32)에 정사를 보았다.\n",
                 "date_ko": "세종 92권, 23년(1441 신유 / 명 정통(正統) 6년) 2월 9일(병자) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○丙子/視事。"
             },
@@ -1061,6 +1065,7 @@
                 "H2KE-EN": "On eulmyo day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 92권, 23년(1441 신유 / 명 정통(正統) 6년) 3월 18일(을묘) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○乙卯/日暈。"
             },
@@ -1227,6 +1232,7 @@
                 "H2KE-EN": "On gyeongja day, a solar halo appeared.\n",
                 "H2KE-nKo": "경자년(1780, 정조4)에 햇무리가 졌다.\n",
                 "date_ko": "세종 92권, 23년(1441 신유 / 명 정통(正統) 6년) 3월 3일(경자) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚子/日暈。"
             },
@@ -1824,6 +1830,7 @@
                 "H2KE-EN": "On eulmi day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "을묘년(1795, 정조19)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 92권, 23년(1441 신유 / 명 정통(正統) 6년) 5월 20일(을묘) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○乙卯/受常參, 視事。"
             },
@@ -2140,6 +2147,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the full moon day at the eleventh month.\n",
                 "H2KE-nKo": "기묘년(1759, 영조35)의 망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 93권, 23년(1441 신유 / 명 정통(正統) 6년) 6월 14일(기묘) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and invocation for the rite of the full moon day.",
                 "gt-oKo": "망제(望祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○己卯/親傳望祭香祝。"
             },
@@ -2255,6 +2263,7 @@
                 "H2KE-EN": "The King prayed for rain at the northern outskirts of the capital.\n",
                 "H2KE-nKo": "북교에서 기우제를 지냈다.\n",
                 "date_ko": "세종 93권, 23년(1441 신유 / 명 정통(正統) 6년) 6월 22일(정해) 2번째기사",
+                "gt-EN": "The King prayed for rain at the northern outskirts [of the capital].",
                 "gt-oKo": "북교(北郊)에서 비를 빌었다.",
                 "hj": "○禱雨于北郊。"
             }
@@ -2296,6 +2305,7 @@
                 "H2KE-EN": "On gapja day, it rained in the imjin year (.\n",
                 "H2KE-nKo": "비가 내렸다.\n",
                 "date_ko": "세종 93권, 23년(1441 신유 / 명 정통(正統) 6년) 6월 27일(임진) 1번째기사",
+                "gt-EN": "On sinyu day, it rained.",
                 "gt-oKo": "비가 왔다.",
                 "hj": "○壬辰/雨。"
             },
@@ -2381,6 +2391,7 @@
                 "H2KE-EN": "On gyeongo day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "정사를 보았다.\n",
                 "date_ko": "세종 93권, 23년(1441 신유 / 명 정통(正統) 6년) 6월 5일(경오) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○庚午/視事。"
             },
@@ -2902,6 +2913,7 @@
                 "H2KE-EN": "Heavy rain fell in jeongyu year.\n",
                 "H2KE-nKo": "정유년(1777, 정조1)에 큰비가 내렸다.\n",
                 "date_ko": "세종 93권, 23년(1441 신유 / 명 정통(正統) 6년) 7월 3일(정유) 1번째기사",
+                "gt-EN": "Heavy rain fell.",
                 "gt-oKo": "큰비가 내렸다.",
                 "hj": "○丁酉/大雨。"
             },
@@ -3236,6 +3248,7 @@
                 "H2KE-EN": "On imo day, the King received the daily audience in the imo year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 93권, 23년(1441 신유 / 명 정통(正統) 6년) 8월 18일(임오) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○壬午/受常參。"
             },
@@ -3917,6 +3930,7 @@
                 "H2KE-EN": "On gyeyu day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 94권, 23년(1441 신유 / 명 정통(正統) 6년) 10월 10일(계유) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○癸酉/受常參, 視事。"
             },
@@ -4512,6 +4526,7 @@
                 "H2KE-EN": "On musul day, the King received the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "무술년(1778, 정조2)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 94권, 23년(1441 신유 / 명 정통(正統) 6년) 11월 5일(무술) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○戊戌/受常參視事。"
             }
@@ -4805,6 +4820,7 @@
                 "H2KE-EN": "The King went to Taepyeong Guesthouse and held the second-day banquet [for the imperial envoys].\n",
                 "H2KE-nKo": "주상이 태평관에 행행하여 익일연을 베풀었다.\n",
                 "date_ko": "세종 94권, 23년(1441 신유 / 명 정통(正統) 6년) 12월 27일(기미) 3번째기사",
+                "gt-EN": "The King proceeded to Taepyeong Guesthouse 太平館 and held the second-day banquet.",
                 "gt-oKo": "임금이 태평관에 거둥하여 익일연(翌日宴)을 베풀었다.",
                 "hj": "○上幸太平館, 設翼日宴。"
             },

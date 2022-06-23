@@ -164,6 +164,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 16일(경오) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -213,6 +214,7 @@
                 "H2KE-EN": "Shin Mimi received the daily audience and granted a rotational audience.\n",
                 "H2KE-nKo": "상참을 받고 윤대를 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 17일(신미) 1번째기사",
+                "gt-EN": "On euryu day, the King received the daily audience and granted a rotational audience.",
                 "gt-oKo": "상참을 받고 윤대를 행하였다.",
                 "hj": "○辛未/受常參, 輪對。"
             },
@@ -271,6 +273,7 @@
                 "H2KE-EN": "On gyeyu day, the King received the officials in the daily audience in the gyeyu year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 19일(계유) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○癸酉/受常參。"
             },
@@ -317,6 +320,7 @@
                 "H2KE-EN": "On gapsul day, the King received officials in the daily audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "갑술년(1754, 영조30)에 상참을 받고 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 20일(갑술) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 경연에 나아갔다.",
                 "hj": "○甲戌/受常參, 御經筵。"
             },
@@ -473,6 +477,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 3일(정사) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○丁巳/御經筵。"
             }
@@ -482,6 +487,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 30일(갑신) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and the written invocation to be used for the rite of the new moon day.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○甲申/親傳朔祭香祝。"
             },
@@ -505,6 +511,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 4일(무오) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -528,6 +535,7 @@
                 "H2KE-EN": "On gimi day, the King received officials in the daily audience, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 5일(기미) 1번째기사",
+                "gt-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○己未/受常參, 輪對, 御經筵。"
             },
@@ -544,6 +552,7 @@
                 "H2KE-EN": "On gyeongsin day, [the King] attended the Royal Lecture on the Confucian classics.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 6일(경신) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○庚申/御經筵。"
             },
@@ -574,6 +583,7 @@
                 "H2KE-EN": "On gyeongsul day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 1월 7일(신유) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○辛酉/御經筵。"
             },
@@ -647,6 +657,7 @@
                 "H2KE-EN": "On gabo day, the King received the daily audience in the gabo year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 10일(갑오) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○甲午/受常參。"
             },
@@ -670,6 +681,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 11일(을미) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -686,6 +698,7 @@
                 "H2KE-EN": "On byeongsin day, the King received officials in the daily audience, conducted state affairs, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고, 정사를 보고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 12일(병신) 1번째기사",
+                "gt-EN": "On gichuk day, the King received the daily audience, conducted state affairs, and granted a rotational audience.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 윤대를 행하였다.",
                 "hj": "○丙申/受常參, 視事, 經筵。"
             },
@@ -723,6 +736,7 @@
                 "H2KE-EN": "The King received officials in the regular morning court assembly, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "정유년(1777, 정조1)에 상참을 받고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 13일(정유) 1번째기사",
+                "gt-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○丁酉/受常(常)參, 輪對, 經筵。"
             },
@@ -760,6 +774,7 @@
                 "H2KE-EN": "The King received the daily audience, conducted state affairs, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "무술년(1778, 정조2)에 상참을 받고, 정사를 보고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 14일(무술) 1번째기사",
+                "gt-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○戊戌/受常參, 視事, 輪對, 經筵。"
             },
@@ -790,6 +805,7 @@
                 "H2KE-EN": "On gihae day, the King received officials in the daily audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 15일(기해) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 경연에 나아갔다.",
                 "hj": "○己亥/受常參, 經筵。"
             },
@@ -846,6 +862,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 16일(경자) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -869,6 +886,7 @@
                 "H2KE-EN": "On sinchuk day, the King received officials in the daily audience, conducted state affairs, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "신축년(1781, 정조5)에 상참을 받고, 정사를 보고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 17일(신축) 1번째기사",
+                "gt-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○辛丑/受常參, 視事, 輪對, 經筵。"
             },
@@ -897,6 +915,7 @@
                 "H2KE-EN": "On imin day, the King received officials in the daily audience, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "임인년(1782, 정조6)에 상참을 받고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 18일(임인) 1번째기사",
+                "gt-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○壬寅/受常參, 輪對, 經筵。"
             }
@@ -906,6 +925,7 @@
                 "H2KE-EN": "On gyemyo day, the King received the daily audience, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "계묘년(1783, 정조7)에 상참을 받고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 19일(계묘) 1번째기사",
+                "gt-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○癸卯/受常參, 輪對, 經筵。"
             },
@@ -922,6 +942,7 @@
                 "H2KE-EN": "On byeongjin day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "병술년(1766, 영조42)의 차대를 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 2일(병술) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○丙戌/視事。"
             },
@@ -929,6 +950,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite for commemorating Confucius .\n",
                 "H2KE-nKo": "석전제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 2일(병술) 2번째기사",
+                "gt-EN": "The King personally presented incense and a written invocation for the rite for commemorating Confucian sages.",
                 "gt-oKo": "석전제(釋奠祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○親傳釋奠祭香祝。"
             },
@@ -952,6 +974,7 @@
                 "H2KE-EN": "The King received the daily audience in the gapjin year ( and conducted state affairs.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 20일(갑진) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○甲辰/受常參, 視事。"
             },
@@ -1037,6 +1060,7 @@
                 "H2KE-EN": "On giyu day, the King received officials in the daily audience, conducted state affairs, and granted a rotational audience.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보고 윤대를 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 25일(기유) 1번째기사",
+                "gt-EN": "On gichuk day, the King received the daily audience, conducted state affairs, and granted a rotational audience.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 윤대를 행하였다.",
                 "hj": "○己酉/受常參, 視事, 輪對。"
             },
@@ -1095,6 +1119,7 @@
                 "H2KE-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 27일(신해) 1번째기사",
+                "gt-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○辛亥/受常參, 輪對, 經筵。"
             },
@@ -1130,6 +1155,7 @@
                 "H2KE-EN": "On imja day, the King received officials in the daily audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "임자년(1792, 정조16)에 상참을 받고 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 28일(임자) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 경연에 나아갔다.",
                 "hj": "○壬子/受常參, 經筵。"
             },
@@ -1158,6 +1184,7 @@
                 "H2KE-EN": "On gyechuk day, the King received officials in the daily audience, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 29일(계축) 1번째기사",
+                "gt-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○癸丑/受常參, 輪對, 經筵。"
             },
@@ -1165,6 +1192,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 29일(계축) 2번째기사",
+                "gt-EN": "The King personally sent incense and written invocations to be used at the rite of the new moon.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향과 축문을 친히 전했다.",
                 "hj": "○親傳朔祭香祝。"
             },
@@ -1202,6 +1230,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite at the Altar of the Soil and Grain .\n",
                 "H2KE-nKo": "사직제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 3일(정해) 1번째기사",
+                "gt-EN": "The King personally sent incense and written invocations to be used at the rites for the deities of the earth and grain.",
                 "gt-oKo": "사직제(社稷祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○丁亥/親傳社稷祭香祝。"
             },
@@ -1218,6 +1247,7 @@
                 "H2KE-EN": "On muja day, the King received officials in the daily audience, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "무자년(1768, 영조44)에 상참을 받고, 정사를 보고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 4일(무자) 1번째기사",
+                "gt-EN": "The King received the daily audience, granted a rotational audience, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○戊子/受常參, 視(年)〔事〕, 輪對, 經筵。"
             }
@@ -1227,6 +1257,7 @@
                 "H2KE-EN": "On gichuk day, the King received officials in the daily audience in the gichuk year (.\n",
                 "H2KE-nKo": "기축년(1769, 영조45)에 상참을 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 5일(기축) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○己丑/受常參。"
             },
@@ -1280,6 +1311,7 @@
                 "H2KE-EN": "On sinmyo day, the King proceeded to the Royal Lecture on the sinmyo day, and then attended the Royal Lecture.\n",
                 "H2KE-nKo": "신묘년(1771, 정조7)에 경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 7일(신묘) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○(幸)〔辛〕卯/御經筵。"
             },
@@ -1296,6 +1328,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 8일(임진) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○壬辰/御經筵。"
             },
@@ -1333,6 +1366,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 2월 9일(계사) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -1393,6 +1427,7 @@
                 "H2KE-EN": "On gyehae day, the King received the daily audience in the gyehae year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 3월 10일(계해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○癸亥/受常參。"
             },
@@ -1451,6 +1486,7 @@
                 "H2KE-EN": "On eulchuk day, the King received officials in the daily audience and granted a rotational audience.\n",
                 "H2KE-nKo": "을축년(1765, 영조51)에 상참을 받고 윤대를 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 3월 12일(을축) 1번째기사",
+                "gt-EN": "On euryu day, the King received the daily audience and granted a rotational audience.",
                 "gt-oKo": "상참을 받고 윤대를 행하였다.",
                 "hj": "○乙丑/受常參, 輪對。"
             },
@@ -1504,6 +1540,7 @@
                 "H2KE-EN": "On jeongmyo day, the King received the daily audience in the jeongmyo day.\n",
                 "H2KE-nKo": "정묘년(1747, 영조23)에 상참을 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 3월 14일(정묘) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○丁卯/受常參。"
             },
@@ -1594,6 +1631,7 @@
                 "H2KE-EN": "Shin Mimi received the daily audience and granted a rotational audience.\n",
                 "H2KE-nKo": "상참을 받고 윤대를 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 3월 18일(신미) 1번째기사",
+                "gt-EN": "On euryu day, the King received the daily audience and granted a rotational audience.",
                 "gt-oKo": "상참을 받고 윤대를 행하였다.",
                 "hj": "○辛未/受常參, 輪對。"
             },
@@ -1631,6 +1669,7 @@
                 "H2KE-EN": "On imsin day, the King received the daily audience and granted a rotational audience.\n",
                 "H2KE-nKo": "상참을 받고 윤대를 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 3월 19일(임신) 1번째기사",
+                "gt-EN": "On euryu day, the King received the daily audience and granted a rotational audience.",
                 "gt-oKo": "상참을 받고 윤대를 행하였다.",
                 "hj": "○壬申/受常參, 輪對。"
             },
@@ -1654,6 +1693,7 @@
                 "H2KE-EN": "On eulmyo day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 3월 2일(을묘) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○乙卯/受常參。"
             },
@@ -1698,6 +1738,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience.\n",
                 "H2KE-nKo": "윤대를 행하였다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 3월 20일(계유) 3번째기사",
+                "gt-EN": "The King granted a rotational audience.",
                 "gt-oKo": "윤대를 행하였다.",
                 "hj": "○輪對。"
             },
@@ -1988,6 +2029,7 @@
                 "H2KE-EN": "On imsul day, Venus appeared during daylight hours.\n",
                 "H2KE-nKo": "태백성이 낮에 나타났다.\n",
                 "date_ko": "세종 59권, 15년(1433 계축 / 명 선덕(宣德) 8년) 3월 5일(무오) 2번째기사",
+                "gt-EN": "The Great White 太白 (Venus) appeared during the daylight hours.",
                 "gt-oKo": "태백성(太白星)이 낮에 나타났다.",
                 "hj": "○太白晝見。"
             },
@@ -2347,6 +2389,7 @@
                 "H2KE-EN": "On gyeongo day, the King received officials in the daily audience in the gyeongsul year (.\n",
                 "H2KE-nKo": "경술년(1790, 정조14)에 상참을 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 4월 27일(경술) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○庚戌/受常參。"
             },
@@ -2370,6 +2413,7 @@
                 "H2KE-EN": "On sinhae day, the King received the daily audience in the sinhae year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 4월 28일(신해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○辛亥/受常參。"
             },
@@ -2393,6 +2437,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the new moon day in imja year (.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 4월 29일(임자) 1번째기사",
+                "gt-EN": "The King personally sent incense and written invocations to be used at the rite of the new moon.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향과 축문을 친히 전했다.",
                 "hj": "○壬子/親傳朔祭香祝。"
             },
@@ -2427,6 +2472,7 @@
                 "H2KE-EN": "On muja day, a lunar eclipse occurred in Mokseong .\n",
                 "H2KE-nKo": "달이 목성을 범하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 4월 5일(무자) 1번째기사",
+                "gt-EN": "On gapsin day, the moon eclipsed Jupiter.",
                 "gt-oKo": "달이 목성(木星)을 범하였다.",
                 "hj": "○戊子/月犯木星。"
             },
@@ -2551,6 +2597,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience.\n",
                 "H2KE-nKo": "윤대를 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 5월 11일(계해) 2번째기사",
+                "gt-EN": "The King granted a rotational audience.",
                 "gt-oKo": "윤대를 행하였다.",
                 "hj": "○輪對。"
             },
@@ -2586,6 +2633,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience.\n",
                 "H2KE-nKo": "윤대를 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 5월 12일(갑자) 2번째기사",
+                "gt-EN": "The King granted a rotational audience.",
                 "gt-oKo": "윤대를 행하였다.",
                 "hj": "○輪對。"
             },
@@ -2688,6 +2736,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience.\n",
                 "H2KE-nKo": "윤대를 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 5월 16일(무진) 2번째기사",
+                "gt-EN": "The King granted a rotational audience.",
                 "gt-oKo": "윤대를 행하였다.",
                 "hj": "○輪對。"
             },
@@ -2718,6 +2767,7 @@
                 "H2KE-EN": "On gisa day, the King received officials in the daily audience and granted a rotational audience.\n",
                 "H2KE-nKo": "상참을 받고 윤대를 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 5월 17일(기사) 1번째기사",
+                "gt-EN": "On euryu day, the King received the daily audience and granted a rotational audience.",
                 "gt-oKo": "상참을 받고 윤대를 행하였다.",
                 "hj": "○己巳/受常參, 輪對。"
             },
@@ -2845,6 +2895,7 @@
                 "H2KE-EN": "On gapjin day, the King received officials in the daily audience and granted a rotational audience.\n",
                 "H2KE-nKo": "갑술년(1754, 영조30)에 상참을 받고 윤대를 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 5월 22일(갑술) 1번째기사",
+                "gt-EN": "On euryu day, the King received the daily audience and granted a rotational audience.",
                 "gt-oKo": "상참을 받고 윤대를 행하였다.",
                 "hj": "○甲戌/受常參, 輪對。"
             },
@@ -2951,6 +3002,7 @@
                 "H2KE-EN": "The King received the daily audience, conducted state affairs, and granted a rotational audience.\n",
                 "H2KE-nKo": "기묘년(1759, 영조35)에 상참을 받고 정사를 보고 윤대를 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 5월 27일(기묘) 1번째기사",
+                "gt-EN": "On gichuk day, the King received the daily audience, conducted state affairs, and granted a rotational audience.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 윤대를 행하였다.",
                 "hj": "○己卯/受常參, 視事, 輪對。"
             },
@@ -3076,6 +3128,7 @@
                 "H2KE-EN": "On byeongjin day, the King received officials in the daily audience in the byeongjin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 5월 4일(병진) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○丙辰/受常參。"
             },
@@ -3120,6 +3173,7 @@
                 "H2KE-EN": "On mujin day, [the King] granted a rotational audience.\n",
                 "H2KE-nKo": "윤대를 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 5월 6일(무오) 1번째기사",
+                "gt-EN": "The King granted a rotational audience.",
                 "gt-oKo": "윤대를 행하였다.",
                 "hj": "○戊午/輪對。"
             },
@@ -3224,6 +3278,7 @@
                 "H2KE-EN": "On imo day, a solar eclipse occurred.\n",
                 "H2KE-nKo": "초하룻날 일식이 있었다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 1일(임오) 1번째기사",
+                "gt-EN": "On gyechuk day, the first day of the month, a solar eclipse appeared.",
                 "gt-oKo": "일식하였다.",
                 "hj": "○壬午朔/日食。"
             },
@@ -3307,6 +3362,7 @@
                 "H2KE-EN": "The King received the daily audience in the gyesa year (, conducted state affairs, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보고 경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 12일(계사) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience, conducted state affairs, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 경연에 나아갔다.",
                 "hj": "○癸巳/受常參, 視事, 御經筵。"
             }
@@ -3330,6 +3386,7 @@
                 "H2KE-EN": "On byeongsin day, the King received officials in the daily audience, conducted state affairs, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보고 경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 15일(병신) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience, conducted state affairs, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 경연에 나아갔다.",
                 "hj": "○丙申/受常參, 視事, 御經筵。"
             },
@@ -3395,6 +3452,7 @@
                 "H2KE-EN": "On jeongyu day, it rained jeongyu day.\n",
                 "H2KE-nKo": "정유년(1777, 정조1)에 비가 내렸다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 16일(정유) 1번째기사",
+                "gt-EN": "On euryu day, rain fell.",
                 "gt-oKo": "비가 내렸다.",
                 "hj": "○丁酉/雨。"
             },
@@ -3402,6 +3460,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 16일(정유) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -3418,6 +3477,7 @@
                 "H2KE-EN": "On muja day, it rained during the musul year (188, the first year of King Sejongs reign.\n",
                 "H2KE-nKo": "무술일에 장맛비가 내렸다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 17일(무술) 1번째기사",
+                "gt-EN": "On euryu day, rain fell.",
                 "gt-oKo": "비가 내렸다.",
                 "hj": "○(戊成)〔戊戌〕/雨。"
             },
@@ -3425,6 +3485,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 17일(무술) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -3462,6 +3523,7 @@
                 "H2KE-EN": "On gihae day, it rained in gihae year.\n",
                 "H2KE-nKo": "비가 내렸다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 18일(기해) 1번째기사",
+                "gt-EN": "On euryu day, rain fell.",
                 "gt-oKo": "비가 내렸다.",
                 "hj": "○己亥/雨。"
             },
@@ -3469,6 +3531,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 18일(기해) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -3513,6 +3576,7 @@
                 "H2KE-EN": "On gyeongja day, it rained in gyeongja year (.\n",
                 "H2KE-nKo": "경자년(1780, 정조4)에 비가 내렸다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 19일(경자) 1번째기사",
+                "gt-EN": "It rained.",
                 "gt-oKo": "비 왔다.",
                 "hj": "○庚子/雨。"
             },
@@ -3520,6 +3584,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 19일(경자) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -3566,6 +3631,7 @@
                 "H2KE-EN": "On sinchuk day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "신축년(1781, 정조5)에 상참을 받았다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 20일(신축) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○辛丑/受常參。"
             },
@@ -3573,6 +3639,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 20일(신축) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -3626,6 +3693,7 @@
                 "H2KE-EN": "On gyemyo day, the King conducted state affairs, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "계묘년(1783, 정조7)에 정사를 보고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 22일(계묘) 1번째기사",
+                "gt-EN": "The King conducted state affairs, granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "정사를 보고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○癸卯/視事, 輪(臺)〔對〕, 經筵。"
             },
@@ -3679,6 +3747,7 @@
                 "H2KE-EN": "On eulsa day, the King received officials in the daily audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "을사년(1785, 정조9)에 상참을 받고 경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 24일(을사) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 경연에 나아갔다.",
                 "hj": "○乙巳/受常參, 御經筵。"
             },
@@ -3720,6 +3789,7 @@
                 "H2KE-EN": "On giyu day, [the King] attended the Royal Lectures [on the Confucian classics].\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 28일(기유) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○己酉/御經筵。"
             },
@@ -3764,6 +3834,7 @@
                 "H2KE-EN": "The King received the daily audience in the gapsin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 3일(갑신) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○甲申/受常參。"
             },
@@ -3858,6 +3929,7 @@
                 "H2KE-EN": "On muja day, the King received the daily audience in the muja year (, conducted state affairs, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "무자년(1768, 영조44)에 상참을 받고 정사를 보고 경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 7일(무자) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience, conducted state affairs, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 경연에 나아갔다.",
                 "hj": "○戊子/受常參, 視事, 御經筵。"
             },
@@ -3874,6 +3946,7 @@
                 "H2KE-EN": "On gichuk day, the King attended the Royal Lecture on the Confucian classics in the gichuk year (.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 60권, 15년(1433 계축 / 명 선덕(宣德) 8년) 6월 8일(기축) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○己丑/御經筵。"
             },
@@ -3954,6 +4027,7 @@
                 "H2KE-EN": "On sinhae day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "차대를 행하였다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 7월 11일(임술) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○壬戌/視事。"
             },
@@ -4078,6 +4152,7 @@
                 "H2KE-EN": "On sinsa day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "기사년(1789, 정조15)의 시사를 행하였다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 7월 18일(기사) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○己巳/視事。"
             },
@@ -4272,6 +4347,7 @@
                 "H2KE-EN": "The King received the regular morning court assembly and conducted state affairs.\n",
                 "H2KE-nKo": "정축년(1757, 영조33) 조참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 7월 26일(정축) 1번째기사",
+                "gt-EN": "The King received officials in the regular morning court assembly and conducted state affairs.",
                 "gt-oKo": "조참(朝參)을 받고 정사를 보았다.",
                 "hj": "○丁丑/受朝參, 視事。"
             },
@@ -4390,6 +4466,7 @@
                 "H2KE-EN": "On eulmi day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "기미년(1779, 정조14)의 정사를 보았다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 7월 8일(기미) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○己未/視事。"
             },
@@ -4475,6 +4552,7 @@
                 "H2KE-EN": "On sinhae day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 11일(신묘) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○辛卯/輪對, 經筵。"
             },
@@ -4505,6 +4583,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 12일(임진) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○壬辰/御經筵。"
             },
@@ -4551,6 +4630,7 @@
                 "H2KE-EN": "On gabo day, the King conducted state affairs, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "갑오년(1774, 영조50) 정사를 보고 윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 14일(갑오) 1번째기사",
+                "gt-EN": "The King conducted state affairs, granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "정사를 보고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○甲午/視事, 輪對, 經筵。"
             },
@@ -4618,6 +4698,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 16일(병신) 3번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -4641,6 +4722,7 @@
                 "H2KE-EN": "On jeongyu day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "정유년(1777, 정조1)에 윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 17일(정유) 1번째기사",
+                "gt-EN": "On byeongsin day, the King attended the Royal Lecture 經筵 and granted a rotational audience.",
                 "gt-oKo": "경연에 나아가고 윤대를 행하였다.",
                 "hj": "○丁酉/輪對, 經筵。"
             },
@@ -4678,6 +4760,7 @@
                 "H2KE-EN": "On musul day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "무술년(1778, 정조2)에 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 18일(무술) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○戊戌/御經筵。"
             },
@@ -4701,6 +4784,7 @@
                 "H2KE-EN": "On gihae day, the King conducted state affairs, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "정사를 보고, 윤대를 행하고, 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 19일(기해) 1번째기사",
+                "gt-EN": "The King conducted state affairs, granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "정사를 보고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○己亥/視事, 輪對, 經筵。"
             },
@@ -4740,6 +4824,7 @@
                 "H2KE-EN": "The King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 20일(경자) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○庚子/輪對, 經筵。"
             },
@@ -4779,6 +4864,7 @@
                 "H2KE-EN": "On imin day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 22일(임인) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○壬寅/輪對, 經筵。"
             },
@@ -4793,6 +4879,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "계묘년(1783, 정조7) 윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 23일(계묘) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○癸卯/輪對, 經筵。"
             },
@@ -4809,6 +4896,7 @@
                 "H2KE-EN": "On gapjin day, the King conducted state affairs, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "갑진년(1784, 정조8)에 정사를 보고 윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 24일(갑진) 1번째기사",
+                "gt-EN": "The King conducted state affairs, granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "정사를 보고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○甲辰/視事, 輪對, 經筵。"
             },
@@ -4832,6 +4920,7 @@
                 "H2KE-EN": "On eulsa day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 25일(을사) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○乙巳/輪對, 經筵。"
             },
@@ -4878,6 +4967,7 @@
                 "H2KE-EN": "On jeongmi day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 27일(정미) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○丁未/輪對, 經筵。"
             },
@@ -4894,6 +4984,7 @@
                 "H2KE-EN": "On musin day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 28일(무신) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○戊申/輪對, 經筵。"
             },
@@ -4931,6 +5022,7 @@
                 "H2KE-EN": "On giyu day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 29일(기유) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○己酉/輪對, 經筵。"
             },
@@ -4956,6 +5048,7 @@
                 "H2KE-EN": "The King conducted state affairs, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "경술년(1790, 정조14)에 정사를 보고 윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 30일(경술) 1번째기사",
+                "gt-EN": "The King conducted state affairs, granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "정사를 보고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○庚戌/視事, 輪對, 經筵。"
             },
@@ -5007,6 +5100,7 @@
                 "H2KE-EN": "On eulyu day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 5일(을유) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○乙酉/輪對, 經筵。"
             }
@@ -5046,6 +5140,7 @@
                 "H2KE-EN": "The King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 7일(정해) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○丁亥/輪對, 經筵。"
             },
@@ -5062,6 +5157,7 @@
                 "H2KE-EN": "On muja day, [the King (Sejong] conducted state affairs and attended the Royal Lecture .\n",
                 "H2KE-nKo": "무자년(1768, 영조44)의 정사를 보고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 8일(무자) 1번째기사",
+                "gt-EN": "On gapja day, the King conducted state affairs and attended the Royal Lectures.",
                 "gt-oKo": "정사를 보고 경연에 나아갔다.",
                 "hj": "○戊子/視事, 經筵。"
             },
@@ -5078,6 +5174,7 @@
                 "H2KE-EN": "On gichuk day, the King attended the Royal Lecture on the Confucian classics in the gichuk year (.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 8월 9일(기축) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○己丑/御經筵。"
             },
@@ -5131,6 +5228,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 9월 1일(경진) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             }
@@ -5322,6 +5420,7 @@
                 "H2KE-EN": "On jeongyu day, the King granted a rotational audience.\n",
                 "H2KE-nKo": "정유년(1777, 정조1) 윤대를 행하였다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 9월 18일(정유) 1번째기사",
+                "gt-EN": "The King granted a rotational audience.",
                 "gt-oKo": "윤대를 행하였다.",
                 "hj": "○丁酉/輪對。"
             },
@@ -5352,6 +5451,7 @@
                 "H2KE-EN": "On musul day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "무술년(1778, 정조2)에 윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 9월 19일(무술) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○戊戌/輪對, 經筵。"
             },
@@ -5398,6 +5498,7 @@
                 "H2KE-EN": "The King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 9월 21일(경자) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○庚子/輪對, 經筵。"
             },
@@ -5486,6 +5587,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 9월 24일(계묘) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -5516,6 +5618,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 9월 25일(갑진) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -5771,6 +5874,7 @@
                 "H2KE-EN": "On gyeongjin day, the first day of the month, [the King] stayed in Jeoksan .\n",
                 "H2KE-nKo": "적산(積山 적산)에 머물렀다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 10월 1일(경술) 1번째기사",
+                "gt-EN": "The King stayed at Jeoksan 積山.",
                 "gt-oKo": "적산(積山)에 머물렀다.",
                 "hj": "○庚戌朔/留積山。"
             },
@@ -5826,6 +5930,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 10월 12일(신유) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -5928,6 +6033,7 @@
                 "H2KE-EN": "An earthquake occurred in Junghwa County of Pyeongan Province.\n",
                 "H2KE-nKo": "평안도 중화군에 지진이 일어났다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 10월 15일(갑자) 6번째기사",
+                "gt-EN": "An earthquake occurred in Junghwa County 中和郡 of Pyeongan Province 平安道.",
                 "gt-oKo": "평안도 중화군(中和郡)에 지진(地震)이 일었다.",
                 "hj": "○平安道中和郡地震。"
             }
@@ -5962,6 +6068,7 @@
                 "H2KE-EN": "The King received the daily audience, conducted state affairs, and granted a rotational audience.\n",
                 "H2KE-nKo": "정묘년(1747, 영조23)에 상참을 받고 정사를 보고 윤대를 행하였다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 10월 18일(정묘) 1번째기사",
+                "gt-EN": "On gichuk day, the King received the daily audience, conducted state affairs, and granted a rotational audience.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 윤대를 행하였다.",
                 "hj": "○丁卯/受常參, 視事, 輪對。"
             },
@@ -5985,6 +6092,7 @@
                 "H2KE-EN": "On sinhae day, the King received the officials in the daily audience in the mujin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 10월 19일(무진) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊辰/受常參。"
             },
@@ -6100,6 +6208,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 10월 23일(임신) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -6137,6 +6246,7 @@
                 "H2KE-EN": "On gyeyu day, the King received the officials in the daily audience in the gyeyu year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 10월 24일(계유) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○癸酉/受常參。"
             },
@@ -6160,6 +6270,7 @@
                 "H2KE-EN": "On gapsul day, the King received officials in the daily audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "갑술년(1754, 영조30)에 상참을 받고 경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 10월 25일(갑술) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 경연에 나아갔다.",
                 "hj": "○甲戌/受常參, 御經筵。"
             }
@@ -6359,6 +6470,7 @@
                 "H2KE-EN": "On byeongjin day, [the King] attended the Royal Lecture on the byeongjin day.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 10월 7일(병진) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○丙辰/御經筵。"
             },
@@ -6738,6 +6850,7 @@
                 "H2KE-EN": "On imin day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "임인년(1782, 정조6)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 11월 23일(임인) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○壬寅/受常參, 視事。"
             },
@@ -6784,6 +6897,7 @@
                 "H2KE-EN": "On byeongjin day, the King received the daily audience in the gapjin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 11월 25일(갑진) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○甲辰/受常參。"
             },
@@ -6851,6 +6965,7 @@
                 "H2KE-EN": "On byeongo day, the King received officials in the daily audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고 경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 11월 27일(병오) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 경연에 나아갔다.",
                 "hj": "○丙午/受常參, 御經筵。"
             },
@@ -6867,6 +6982,7 @@
                 "H2KE-EN": "On jeongmi day, the King received officials in the daily audience, conducted state affairs, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "정미년(1787, 정조11)에 상참을 받고 정사를 보고 경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 11월 28일(정미) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience, conducted state affairs, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 경연에 나아갔다.",
                 "hj": "○丁未/受常參, 視事, 御經筵。"
             }
@@ -7085,6 +7201,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the full moon day in gyehae year (.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 12월 14일(계해) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and invocation for the rite of the full moon day.",
                 "gt-oKo": "망제(望祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○癸亥/親傳望祭香祝。"
             },
@@ -7168,6 +7285,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 12월 17일(병인) 5번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -7191,6 +7309,7 @@
                 "H2KE-EN": "On jeongmyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 12월 18일(정묘) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○丁卯/御經筵。"
             },
@@ -7274,6 +7393,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 12월 20일(기사) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -7364,6 +7484,7 @@
                 "H2KE-EN": "On sinhae day, [the King] attended the Royal Lectures [on the Confucian classics].\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 12월 23일(임신) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○壬申/御經筵。"
             },
@@ -7514,6 +7635,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day in the muin year (.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 12월 29일(무인) 1번째기사",
+                "gt-EN": "The King personally delivered the incense and the written invocation to be used for the rite of the new moon day.",
                 "gt-oKo": "삭제(朔祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○戊寅/親傳朔祭香祝。"
             },
@@ -7574,6 +7696,7 @@
                 "H2KE-EN": "On sinhae day, the King attended the Royal Lecture on the first day of the month.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 62권, 15년(1433 계축 / 명 선덕(宣德) 8년) 12월 5일(갑인) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○甲寅/御經筵。"
             },
@@ -7775,6 +7898,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 1일(신해) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -7937,6 +8061,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 14일(갑자) 4번째기사",
+                "gt-EN": "The King personally delivered the incense and invocation for the rite of the full moon day.",
                 "gt-oKo": "망제(望祭)에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○親傳望祭香祝。"
             },
@@ -7974,6 +8099,7 @@
                 "H2KE-EN": "On eulchuk day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 15일(을축) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○乙丑/輪對, 經筵。"
             },
@@ -8011,6 +8137,7 @@
                 "H2KE-EN": "On gabin day, Venus appeared during daylight hours.\n",
                 "H2KE-nKo": "태백성이 낮에 나타났다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 16일(병인) 1번째기사",
+                "gt-EN": "The Great White Star 太白星 (Venus) appeared during the day.",
                 "gt-oKo": "태백성(太白星)이 낮에 보였다.",
                 "hj": "○丙寅/太白晝見。"
             },
@@ -8048,6 +8175,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "정묘년(1747, 영조23)에 윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 17일(정묘) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○丁卯/輪對, 經筵。"
             },
@@ -8122,6 +8250,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 19일(기사) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -8152,6 +8281,7 @@
                 "H2KE-EN": "On imja day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 2일(임자) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○壬子/輪對, 經筵。"
             },
@@ -8196,6 +8326,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 20일(경오) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -8233,6 +8364,7 @@
                 "H2KE-EN": "On sinmi day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 21일(신미) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○辛未/御經筵。"
             },
@@ -8300,6 +8432,7 @@
                 "H2KE-EN": "On gyeyu day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 23일(계유) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○癸酉/輪對, 經筵。"
             },
@@ -8323,6 +8456,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 24일(갑술) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -8360,6 +8494,7 @@
                 "H2KE-EN": "On eulhae day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 25일(을해) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○乙亥/輪對, 經筵。"
             },
@@ -8443,6 +8578,7 @@
                 "H2KE-EN": "On muin day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 28일(무인) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○戊寅/輪對, 經筵。"
             },
@@ -8471,6 +8607,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 29일(기묘) 2번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○輪對, 經筵。"
             },
@@ -8517,6 +8654,7 @@
                 "H2KE-EN": "On gabo day, the King granted a rotational audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 4일(갑인) 1번째기사",
+                "gt-EN": "The King granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "윤대를 행하고 경연에 나아갔다.",
                 "hj": "○甲寅/輪對, 經筵。"
             },
@@ -8588,6 +8726,7 @@
                 "H2KE-EN": "On musul day, the King conducted state affairs, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "무오년(1788, 정조14)에 정사를 보고 윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 61권, 15년(1433 계축 / 명 선덕(宣德) 8년) 윤8월 8일(무오) 1번째기사",
+                "gt-EN": "The King conducted state affairs, granted a rotational audience and attended the Royal Lecture.",
                 "gt-oKo": "정사를 보고, 윤대를 행하고, 경연에 나아갔다.",
                 "hj": "○戊午/視事, 輪對, 經筵。"
             },

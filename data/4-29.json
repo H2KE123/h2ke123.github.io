@@ -121,6 +121,7 @@
                 "H2KE-EN": "On imo day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 115권, 29년(1447 정묘 / 명 정통(正統) 12년) 1월 19일(임오) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○壬午/日暈。"
             },
@@ -210,6 +211,7 @@
                 "H2KE-EN": "On muja day, a solar halo appeared.\n",
                 "H2KE-nKo": "무자년(1788, 정조8)에 햇무리가 졌다.\n",
                 "date_ko": "세종 115권, 29년(1447 정묘 / 명 정통(正統) 12년) 1월 25일(무자) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○戊子/日暈。"
             },
@@ -276,6 +278,7 @@
                 "H2KE-EN": "On jeongmyo day, a solar halo appeared.\n",
                 "H2KE-nKo": "정묘년(1747, 영조23)에 햇무리가 졌다.\n",
                 "date_ko": "세종 115권, 29년(1447 정묘 / 명 정통(正統) 12년) 1월 4일(정묘) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丁卯/日暈。"
             },
@@ -299,6 +302,7 @@
                 "H2KE-EN": "On mujin day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 115권, 29년(1447 정묘 / 명 정통(正統) 12년) 1월 5일(무진) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○戊辰/日暈。"
             },
@@ -1856,6 +1860,7 @@
                 "H2KE-EN": "Heavy rain fell in the gapsin year (.\n",
                 "H2KE-nKo": "큰비가 내렸다.\n",
                 "date_ko": "세종 116권, 29년(1447 정묘 / 명 정통(正統) 12년) 6월 23일(갑신) 1번째기사",
+                "gt-EN": "Heavy rain fell.",
                 "gt-oKo": "큰 비가 내리었다.",
                 "hj": "○甲申/大雨。"
             },

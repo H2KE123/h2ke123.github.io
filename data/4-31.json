@@ -67,6 +67,7 @@
                 "H2KE-EN": "A lunar eclipse occurred.\n",
                 "H2KE-nKo": "월식이 있었다.\n",
                 "date_ko": "세종 123권, 31년(1449 기사 / 명 정통(正統) 14년) 1월 15일(병신) 1번째기사",
+                "gt-EN": "A lunar eclipse occurred.",
                 "gt-oKo": "월식하였다.",
                 "hj": "○丙申/月食。"
             }
@@ -1015,6 +1016,7 @@
                 "H2KE-EN": "On musul day, a solar halo appeared.\n",
                 "H2KE-nKo": "경술년(1790, 정조14)에 햇무리가 졌다.\n",
                 "date_ko": "세종 124권, 31년(1449 기사 / 명 정통(正統) 14년) 4월 1일(경술) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚戌朔/日暈。"
             },
@@ -1038,6 +1040,7 @@
                 "H2KE-EN": "On gyemi day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 124권, 31년(1449 기사 / 명 정통(正統) 14년) 4월 10일(기미) 1번째기사",
+                "gt-EN": "On sinsa day, a ring around the sun appeared.",
                 "gt-oKo": "햇무리를 하였다.",
                 "hj": "○己未/日暈。"
             },
@@ -1171,6 +1174,7 @@
                 "H2KE-EN": "On sinhae day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 124권, 31년(1449 기사 / 명 정통(正統) 14년) 4월 17일(병인) 1번째기사",
+                "gt-EN": "On sinsa day, a ring around the sun appeared.",
                 "gt-oKo": "햇무리를 하였다.",
                 "hj": "○丙寅/日暈。"
             },
@@ -1352,6 +1356,7 @@
                 "H2KE-EN": "On this month, there was a drought.\n",
                 "H2KE-nKo": "이달에 가뭄이 들었다.\n",
                 "date_ko": "세종 124권, 31년(1449 기사 / 명 정통(正統) 14년) 4월 30일(기묘) 3번째기사",
+                "gt-EN": "Droughts occurred in this month.",
                 "gt-oKo": "이달에 가물었다.",
                 "hj": "○是月旱。"
             }
@@ -1541,6 +1546,7 @@
                 "H2KE-EN": "On musul day, Venus appeared during daylight hours.\n",
                 "H2KE-nKo": "태백성이 낮에 나타났다.\n",
                 "date_ko": "세종 124권, 31년(1449 기사 / 명 정통(正統) 14년) 5월 19일(무술) 1번째기사",
+                "gt-EN": "The Great White Star 太白星 (Venus) appeared during the day.",
                 "gt-oKo": "태백성(太白星)이 낮에 보였다.",
                 "hj": "○戊戌/太白晝見。"
             },
@@ -2140,6 +2146,7 @@
                 "H2KE-EN": "On gabin day, it rained heavily on the gisa day.\n",
                 "H2KE-nKo": "비가 내렸다.\n",
                 "date_ko": "세종 124권, 31년(1449 기사 / 명 정통(正統) 14년) 6월 21일(기사) 1번째기사",
+                "gt-EN": "On euryu day, rain fell.",
                 "gt-oKo": "비가 내렸다.",
                 "hj": "○己巳/雨。"
             },
@@ -2516,6 +2523,7 @@
                 "H2KE-EN": "On eulmi day, a solar halo appeared.\n",
                 "H2KE-nKo": "을미년(1775, 영조51)에 햇무리가 졌다.\n",
                 "date_ko": "세종 125권, 31년(1449 기사 / 명 정통(正統) 14년) 7월 17일(을미) 1번째기사",
+                "gt-EN": "A solar halo appeared.",
                 "gt-oKo": "햇무리 하였다.",
                 "hj": "○乙未/日暈。"
             },
@@ -3699,6 +3707,7 @@
                 "H2KE-EN": "On gapsul day, it was foggy.\n",
                 "H2KE-nKo": "갑술년(1754, 영조30) 안개가 끼었다.\n",
                 "date_ko": "세종 126권, 31년(1449 기사 / 명 정통(正統) 14년) 10월 27일(갑술) 1번째기사",
+                "gt-EN": "On jeongyu day, there was fog.",
                 "gt-oKo": "안개가 끼었다.",
                 "hj": "○甲戌/霧。"
             }

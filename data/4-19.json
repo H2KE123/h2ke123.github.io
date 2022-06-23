@@ -129,6 +129,7 @@
                 "H2KE-EN": "On byeongo day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 16일(병오) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丙午/日暈。"
             },
@@ -246,6 +247,7 @@
                 "H2KE-EN": "On sinhae day, a lunar eclipse occurred.\n",
                 "H2KE-nKo": "달이 목성을 범하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 21일(신해) 1번째기사",
+                "gt-EN": "On gapsin day, the moon eclipsed Jupiter.",
                 "gt-oKo": "달이 목성(木星)을 범하였다.",
                 "hj": "○辛亥/月犯木星。"
             }
@@ -292,6 +294,7 @@
                 "H2KE-EN": "The King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 23일(계축) 2번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○受常參, 視事。"
             },
@@ -338,6 +341,7 @@
                 "H2KE-EN": "On gyemyo day, there was thunder and lightning.\n",
                 "H2KE-nKo": "천둥이 쳤다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 25일(을묘) 1번째기사",
+                "gt-EN": "It thundered.",
                 "gt-oKo": "천둥하였다.",
                 "hj": "○乙卯/雷。"
             }
@@ -409,6 +413,7 @@
                 "H2KE-EN": "On eulmi day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "기미년(1779, 정조14)의 정사를 보았다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 29일(기미) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○己未/視事。"
             },
@@ -483,6 +488,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the new moon day.\n",
                 "H2KE-nKo": "삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 30일(경신) 1번째기사",
+                "gt-EN": "[The King] personally delivered the incense and the written invocation for the rite of the new moon 朔祭.",
                 "gt-oKo": "삭제에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○庚申/親傳朔祭香祝。"
             },
@@ -499,6 +505,7 @@
                 "H2KE-EN": "On gabo day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 4일(갑오) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○甲午/日暈。"
             },
@@ -543,6 +550,7 @@
                 "H2KE-EN": "On eulmi day, the King received officials in the daily audience in the eulmi year (.\n",
                 "H2KE-nKo": "을미년(1775, 영조51)에 상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 5일(을미) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience.",
                 "gt-oKo": "상참(常參)을 받았다.",
                 "hj": "○乙未/受常參。"
             },
@@ -587,6 +595,7 @@
                 "H2KE-EN": "On gyemyo day, the King granted a rotational audience.\n",
                 "H2KE-nKo": "윤대를 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 6일(병신) 2번째기사",
+                "gt-EN": "The King granted a rotational audience.",
                 "gt-oKo": "윤대(輪對)를 행하였다.",
                 "hj": "○輪對。"
             },
@@ -631,6 +640,7 @@
                 "H2KE-EN": "On jeongyu day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "정유년(1777, 정조1)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 1월 7일(정유) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○丁酉/受常參, 視事。"
             },
@@ -787,6 +797,7 @@
                 "H2KE-EN": "On gyeyu day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 13일(계유) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○癸酉/受常參, 視事。"
             },
@@ -803,6 +814,7 @@
                 "H2KE-EN": "On gapja day, the King received officials in the daily audience in the gapjin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 14일(갑술) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○甲戌/受常參。"
             },
@@ -810,6 +822,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 14일(갑술) 2번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "망제에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○親傳望祭香祝。"
             },
@@ -838,6 +851,7 @@
                 "H2KE-EN": "On eulhae day, the King received the daily audience in the eulhae year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 15일(을해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○乙亥/受常參。"
             },
@@ -1021,6 +1035,7 @@
                 "H2KE-EN": "On eulyu day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "을유년(1765, 영조41)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 25일(을유) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○乙酉/受常參, 視事。"
             }
@@ -1030,6 +1045,7 @@
                 "H2KE-EN": "On byeongo day, the King received the officials in the morning court assembly in the byeongsul year (.\n",
                 "H2KE-nKo": "병술년(1766, 영조42)에 수조하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 26일(병술) 1번째기사",
+                "gt-EN": "On gyeongo day, the King received the officials in the morning court assembly.",
                 "gt-oKo": "조회를 받았다.",
                 "hj": "○丙戌/受朝。"
             }
@@ -1039,6 +1055,7 @@
                 "H2KE-EN": "On jeonghae day, the King received the daily audience in Jeonghae .\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 27일(정해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○丁亥/受常參。"
             },
@@ -1064,6 +1081,7 @@
                 "H2KE-EN": "On gichuk day, a solar halo appeared.\n",
                 "H2KE-nKo": "기축년(1769, 영조45)에 햇무리가 졌다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 29일(기축) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○己丑/日暈。"
             },
@@ -1071,6 +1089,7 @@
                 "H2KE-EN": "On sinhae day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 29일(기축) 2번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○受常參。"
             },
@@ -1087,6 +1106,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the new moon day in gyeongin year (.\n",
                 "H2KE-nKo": "경인년(1740, 영조24)의 삭제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 30일(경인) 1번째기사",
+                "gt-EN": "[The King] personally delivered the incense and the written invocation for the rite of the new moon 朔祭.",
                 "gt-oKo": "삭제에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○庚寅/親傳朔祭香祝。"
             },
@@ -1117,6 +1137,7 @@
                 "H2KE-EN": "On gapja day, a ring around the sun appeared.\n",
                 "H2KE-nKo": "갑자년(1744, 영조20)에 햇무리가 졌다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 4일(갑자) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○甲子/日暈。"
             },
@@ -1225,6 +1246,7 @@
                 "H2KE-EN": "On gabin day, a solar halo appeared.\n",
                 "H2KE-nKo": "기사년(1789, 정조15)에 햇무리가 졌다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 2월 9일(기사) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○己巳/日暈。"
             },
@@ -1377,6 +1399,7 @@
                 "H2KE-EN": "The King personally handed out the incense and written prayer to be used in the rite of the full moon day in gapjin year (.\n",
                 "H2KE-nKo": "망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 14일(갑진) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "망제에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○甲辰/親傳望祭香祝。"
             },
@@ -1393,6 +1416,7 @@
                 "H2KE-EN": "On eulsa day, a lunar eclipse occurred.\n",
                 "H2KE-nKo": "을사년(1785, 정조1) 월식이 있었다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 15일(을사) 1번째기사",
+                "gt-EN": "A lunar eclipse occurred.",
                 "gt-oKo": "월식하였다.",
                 "hj": "○乙巳/月食。"
             },
@@ -1457,6 +1481,7 @@
                 "H2KE-EN": "On giyu day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 19일(기유) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○己酉/受常參, 視事。"
             },
@@ -1494,6 +1519,7 @@
                 "H2KE-EN": "On imjin day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "임진년(1772, 영조48)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 2일(임진) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○壬辰/受常參, 視事。"
             },
@@ -1604,6 +1630,7 @@
                 "H2KE-EN": "On eulmyo day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 25일(을묘) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○乙卯/日暈。"
             },
@@ -1611,6 +1638,7 @@
                 "H2KE-EN": "On sinhae day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 25일(을묘) 2번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○受常參。"
             }
@@ -1652,6 +1680,7 @@
                 "H2KE-EN": "On muo day, the King received the daily audience in the muo year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 28일(무오) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊午/受常參。"
             },
@@ -1700,6 +1729,7 @@
                 "H2KE-EN": "On gabo day, the King received the daily audience in the gabo year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 4일(갑오) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○甲午/受常參。"
             },
@@ -1716,6 +1746,7 @@
                 "H2KE-EN": "On eulmi day, the King received officials in the daily audience in the eulmi year (.\n",
                 "H2KE-nKo": "을미년(1775, 영조51)에 상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 5일(을미) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○乙未/受常參。"
             }
@@ -1766,6 +1797,7 @@
                 "H2KE-EN": "On gihae day, the King received the daily audience in the gihae year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 76권, 19년(1437 정사 / 명 정통(正統) 2년) 3월 9일(기해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○己亥/受常參。"
             },
@@ -1904,6 +1936,7 @@
                 "H2KE-EN": "On gapsul day, a solar halo appeared.\n",
                 "H2KE-nKo": "갑술년(1764, 영조40)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 4월 15일(갑술) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○甲戌/日暈。"
             },
@@ -1934,6 +1967,7 @@
                 "H2KE-EN": "On byeongja day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "병자년(1756, 영조32)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 4월 17일(병자) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○丙子/受常參, 視事。"
             }
@@ -1943,6 +1977,7 @@
                 "H2KE-EN": "On jeongchuk day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 4월 18일(정축) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丁丑/日暈。"
             }
@@ -1952,6 +1987,7 @@
                 "H2KE-EN": "On muin day, the King received officials in the daily audience in the muin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 4월 19일(무인) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○戊寅/受常參。"
             },
@@ -1982,6 +2018,7 @@
                 "H2KE-EN": "On sinhae day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 4월 2일(신유) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○辛酉/日暈。"
             },
@@ -2077,6 +2114,7 @@
                 "H2KE-EN": "On sinhae day, the King received the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "신사년(1761, 영조47)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 4월 22일(신사) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○辛巳/受常參, 視事。"
             },
@@ -2125,6 +2163,7 @@
                 "H2KE-EN": "The King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "정해년(1767, 영조43)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 4월 28일(정해) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○丁亥/受常參, 視事。"
             },
@@ -2148,6 +2187,7 @@
                 "H2KE-EN": "On muja day, a solar halo appeared.\n",
                 "H2KE-nKo": "무자년(1788, 정조8)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 4월 29일(무자) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○戊子/日暈。"
             },
@@ -2155,6 +2195,7 @@
                 "H2KE-EN": "On sinhae day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 4월 29일(무자) 2번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○受常參。"
             },
@@ -2239,6 +2280,7 @@
                 "H2KE-EN": "On gabin day, a solar halo appeared on the first day of the month.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 1일(경인) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚寅朔/日暈。"
             },
@@ -2336,6 +2378,7 @@
                 "H2KE-EN": "On imin day, a solar halo appeared.\n",
                 "H2KE-nKo": "임인년(1782, 정조6)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 13일(임인) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○壬寅/日暈。"
             },
@@ -2373,6 +2416,7 @@
                 "H2KE-EN": "On gyemyo day, the King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "계묘년(1783, 정조7)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 14일(계묘) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○癸卯/受常參, 視事。"
             },
@@ -2394,6 +2438,7 @@
                 "H2KE-EN": "On gapjin day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 15일(갑진) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○甲辰/日暈。"
             },
@@ -2401,6 +2446,7 @@
                 "H2KE-EN": "On sinhae day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 15일(갑진) 2번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○受常參。"
             },
@@ -2454,6 +2500,7 @@
                 "H2KE-EN": "On byeongo day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 17일(병오) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丙午/日暈。"
             },
@@ -2461,6 +2508,7 @@
                 "H2KE-EN": "On sinhae day, the King received officials in the daily audience.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 17일(병오) 2번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○受常參。"
             }
@@ -2470,6 +2518,7 @@
                 "H2KE-EN": "The King received the daily audience in the jeongmi daytime.\n",
                 "H2KE-nKo": "정미년(1787, 정조11)에 상참을 행하였다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 18일(정미) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○丁未/受常參。"
             },
@@ -2500,6 +2549,7 @@
                 "H2KE-EN": "On giyu day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "정사를 보았다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 20일(기유) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○己酉/視事。"
             },
@@ -2524,6 +2574,7 @@
                 "H2KE-EN": "On gyeongsul day, a solar halo appeared.\n",
                 "H2KE-nKo": "경술년(1790, 정조14)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 21일(경술) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚戌/日暈。"
             },
@@ -2552,6 +2603,7 @@
                 "H2KE-EN": "On sinhae day, the King received the daily audience in the sinhae year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 22일(신해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○辛亥/受常參。"
             },
@@ -2584,6 +2636,7 @@
                 "H2KE-EN": "On jeongmyo day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "정사를 보았다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 28일(정사) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○丁巳/視事。"
             },
@@ -2607,6 +2660,7 @@
                 "H2KE-EN": "On musul day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 29일(무오) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○戊午/日暈。"
             },
@@ -2648,6 +2702,7 @@
                 "H2KE-EN": "On eulmi day, a solar halo appeared.\n",
                 "H2KE-nKo": "을미년(1775, 영조51)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 6일(을미) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○乙未/日暈。"
             },
@@ -2678,6 +2733,7 @@
                 "H2KE-EN": "On byeongsin day, a solar halo appeared.\n",
                 "H2KE-nKo": "병신년(1776, 정조 즉위년)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 7일(병신) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丙申/日暈。"
             },
@@ -2685,6 +2741,7 @@
                 "H2KE-EN": "The King received officials in the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 7일(병신) 2번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○受常參, 視事。"
             }
@@ -2694,6 +2751,7 @@
                 "H2KE-EN": "On jeongyu day, a solar halo appeared.\n",
                 "H2KE-nKo": "정유년(1777, 정조1)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 5월 8일(정유) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丁酉/日暈。"
             },
@@ -2735,6 +2793,7 @@
                 "H2KE-EN": "On gyemi day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 6월 1일(기미) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○己未朔/日暈。"
             },
@@ -2818,6 +2877,7 @@
                 "H2KE-EN": "On gyeyu day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "정사를 보았다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 6월 15일(계유) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○癸酉/視事。"
             },
@@ -2889,6 +2949,7 @@
                 "H2KE-EN": "On mujin day, a solar halo appeared.\n",
                 "H2KE-nKo": "무신년(1788, 정조12)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 6월 20일(무인) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○戊寅/日暈。"
             },
@@ -2912,6 +2973,7 @@
                 "H2KE-EN": "On sinmyo day, the King received the officials in the regular morning court assembly at the gihae day.\n",
                 "H2KE-nKo": "기묘년(1759, 영조35)에 조참을 받았다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 6월 21일(기묘) 1번째기사",
+                "gt-EN": "The King received the regular morning court assembly.",
                 "gt-oKo": "조참(朝參)을 받았다.",
                 "hj": "○己卯/受朝參。"
             },
@@ -2949,6 +3011,7 @@
                 "H2KE-EN": "On gyeongjin day, a solar halo appeared.\n",
                 "H2KE-nKo": "경진년(1760, 영조36)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 6월 22일(경진) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚辰/日暈。"
             }
@@ -2981,6 +3044,7 @@
                 "H2KE-EN": "On imo day, the moon eclipsed the lunar eclipse.\n",
                 "H2KE-nKo": "달이 임오년(1762, 영조38)에 달이 필성을 범하였다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 6월 24일(임오) 1번째기사",
+                "gt-EN": "On muja day, the moon entered the Net 畢 [lunar mansion].1)",
                 "gt-oKo": "달이 필성(畢星)을 범하였다.",
                 "hj": "○壬午/月犯畢。"
             },
@@ -3018,6 +3082,7 @@
                 "H2KE-EN": "On gyemi day, a solar halo appeared.\n",
                 "H2KE-nKo": "계미년(1783, 정조7)에 햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 6월 25일(계미) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○癸未/日暈。"
             },
@@ -3034,6 +3099,7 @@
                 "H2KE-EN": "On musul day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 6월 26일(갑신) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○甲申/日暈。"
             },
@@ -3130,6 +3196,7 @@
                 "H2KE-EN": "On gyehae day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "차대를 행하였다.\n",
                 "date_ko": "세종 77권, 19년(1437 정사 / 명 정통(正統) 2년) 6월 5일(계해) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○癸亥/視事。"
             },
@@ -3263,6 +3330,7 @@
                 "H2KE-EN": "On gyeongja day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "경자년(1780, 정조4)의 시사를 행하였다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 12일(경자) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○庚子/視事。"
             },
@@ -3323,6 +3391,7 @@
                 "H2KE-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day at the imin year (.\n",
                 "H2KE-nKo": "임인년(1782, 정조6) 망제에 쓸 향과 축문을 친히 전하였다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 14일(임인) 1번째기사",
+                "gt-EN": "The King personally delivered incense and a written invocation for the rite of the full moon day 望祭.",
                 "gt-oKo": "망제에 쓸 향과 축문을 친히 전하였다.",
                 "hj": "○壬寅/親傳望祭香祝。"
             },
@@ -3364,6 +3433,7 @@
                 "H2KE-EN": "On eulsa day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "을사년(1785, 정조1)의 도목 정사를 보았다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 17일(을사) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○乙巳/視事。"
             },
@@ -3394,6 +3464,7 @@
                 "H2KE-EN": "On byeongo day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 18일(병오) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○丙午/日暈。"
             },
@@ -3482,6 +3553,7 @@
                 "H2KE-EN": "On gyeongin day, a solar halo appeared.\n",
                 "H2KE-nKo": "경인년(1770, 정조4)에 햇무리가 졌다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 2일(경인) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚寅/日暈。"
             },
@@ -3572,6 +3644,7 @@
                 "H2KE-EN": "On gyeongsul day, a solar halo appeared.\n",
                 "H2KE-nKo": "경술년(1790, 정조14)에 햇무리가 졌다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 22일(경술) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○庚戌/日暈。"
             },
@@ -3579,6 +3652,7 @@
                 "H2KE-EN": "On gyemyo day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "정사를 보았다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 22일(경술) 2번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○視事。"
             },
@@ -3650,6 +3724,7 @@
                 "H2KE-EN": "On musul day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 26일(갑인) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○甲寅/日暈。"
             },
@@ -3777,6 +3852,7 @@
                 "H2KE-EN": "On sinhae day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "차대를 행하였다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 3일(신묘) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○辛卯/視事。"
             },
@@ -3830,6 +3906,7 @@
                 "H2KE-EN": "On gyesa day, a solar halo appeared.\n",
                 "H2KE-nKo": "햇무리가 졌다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 7월 5일(계사) 1번째기사",
+                "gt-EN": "On eulsa day, a [solar] halo appeared.",
                 "gt-oKo": "햇무리하였다.",
                 "hj": "○癸巳/日暈。"
             }
@@ -4013,6 +4090,7 @@
                 "H2KE-EN": "The King received the daily audience in the gapjin year ( and conducted state affairs.\n",
                 "H2KE-nKo": "갑술년(1754, 영조30)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 8월 17일(갑술) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○甲戌/受常參, 視事。"
             },
@@ -4075,6 +4153,7 @@
                 "H2KE-EN": "On gimi day, the King received the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 8월 2일(기미) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○己未/受常參, 視事。"
             },
@@ -4573,6 +4652,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 11일(무술) 3번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -4603,6 +4683,7 @@
                 "H2KE-EN": "On gihae day, [the King] attended the Royal Lecture on the gihae day.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 12일(기해) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○己亥/御經筵。"
             },
@@ -4633,6 +4714,7 @@
                 "H2KE-EN": "On gyeongja day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 13일(경자) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○庚子/御經筵。"
             }
@@ -4679,6 +4761,7 @@
                 "H2KE-EN": "On imin day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 15일(임인) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○壬寅/御經筵。"
             }
@@ -4718,6 +4801,7 @@
                 "H2KE-EN": "On byeongjin day, the King received the daily audience in the gapjin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 17일(갑진) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○甲辰/受常參。"
             },
@@ -4725,6 +4809,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 17일(갑진) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -4782,6 +4867,7 @@
                 "H2KE-EN": "On sinhae day, the King received the daily audience in the sinhae year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 24일(신해) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○辛亥/受常參。"
             },
@@ -4789,6 +4875,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 24일(신해) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             }
@@ -4798,6 +4885,7 @@
                 "H2KE-EN": "On imja day, the King received the daily audience and conducted state affairs.\n",
                 "H2KE-nKo": "임자년(1792, 정조16)에 상참을 받고 정사를 보았다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 25일(임자) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 정사를 보았다.",
                 "hj": "○壬子/受常參, 視事。"
             },
@@ -4805,6 +4893,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 25일(임자) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -4874,6 +4963,7 @@
                 "H2KE-EN": "On byeongjin day, the King received officials in the daily audience in the byeongjin year (.\n",
                 "H2KE-nKo": "상참을 행하였다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 29일(병진) 1번째기사",
+                "gt-EN": "The King received the daily audience.",
                 "gt-oKo": "상참을 받았다.",
                 "hj": "○丙辰/受常參。"
             },
@@ -4881,6 +4971,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 29일(병진) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -5047,6 +5138,7 @@
                 "H2KE-EN": "On byeongsin day, [the King] attended the Royal Lectures [on the Confucian classics].\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 78권, 19년(1437 정사 / 명 정통(正統) 2년) 9월 9일(병신) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○丙申/御經筵。"
             },
@@ -5093,6 +5185,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 1일(정사) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -5157,6 +5250,7 @@
                 "H2KE-EN": "On gabin day, [the King] attended the Royal Lecture on the gisa year (.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 13일(기사) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○己巳/御經筵。"
             },
@@ -5180,6 +5274,7 @@
                 "H2KE-EN": "On byeongo day, the King received officials in the daily audience, conducted state affairs, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고, 정사를 보고, 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 14일(경오) 1번째기사",
+                "gt-EN": "The King received officials in the daily audience, conducted state affairs, and attended the Royal Lecture.",
                 "gt-oKo": "상참을 받고, 정사를 보고, 경연에 나아갔다.",
                 "hj": "○庚午/受常參, 視事, 經筵。"
             },
@@ -5196,6 +5291,7 @@
                 "H2KE-EN": "Shin Mimi received the daily audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 15일(신미) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 경연에 나아갔다.",
                 "hj": "○辛未/受常參, 經筵。"
             }
@@ -5228,6 +5324,7 @@
                 "H2KE-EN": "On gyeyu day, the King received officials in the daily audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 17일(계유) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 경연에 나아갔다.",
                 "hj": "○癸酉/受常參, 經筵。"
             },
@@ -5286,6 +5383,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 19일(을해) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -5325,6 +5423,7 @@
                 "H2KE-EN": "On byeongja day, the King received officials in the daily audience and attended the Royal Lecture.\n",
                 "H2KE-nKo": "상참을 받고 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 20일(병자) 1번째기사",
+                "gt-EN": "The King received the daily audience and conducted state affairs.",
                 "gt-oKo": "상참을 받고 경연에 나아갔다.",
                 "hj": "○丙子/受常參, 經筵。"
             },
@@ -5362,6 +5461,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 21일(정축) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -5424,6 +5524,7 @@
                 "H2KE-EN": "On gyeongjin day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 24일(경진) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○庚辰/御經筵。"
             },
@@ -5454,6 +5555,7 @@
                 "H2KE-EN": "On sinhae day, [the King] conducted state affairs and attended the Royal Lecture on the sinchuk day.\n",
                 "H2KE-nKo": "신사년(1761, 영조47)에 정사를 보고 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 25일(신사) 1번째기사",
+                "gt-EN": "On gapja day, the King conducted state affairs and attended the Royal Lectures.",
                 "gt-oKo": "정사를 보고 경연에 나아갔다.",
                 "hj": "○辛巳/視事, 經筵。"
             },
@@ -5477,6 +5579,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 26일(임오) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -5500,6 +5603,7 @@
                 "H2KE-EN": "On gyemi day, [the King] attended the Royal Lectures [on the Confucian classics].\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 27일(계미) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○癸未/御經筵。"
             },
@@ -5530,6 +5634,7 @@
                 "H2KE-EN": "On sinchuk day, the King attended the Royal Lecture on the eleventh day of the month.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 10월 28일(갑신) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○甲申/御經筵。"
             }
@@ -5758,6 +5863,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 14일(경자) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -5772,6 +5878,7 @@
                 "H2KE-EN": "On sinchuk day, [the King] attended the Royal Lectures [on the Confucian classics].\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 15일(신축) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○辛丑/御經筵。"
             }
@@ -5804,6 +5911,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "계묘년(1783, 정조7)에 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 17일(계묘) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○癸卯/御經筵。"
             },
@@ -5834,6 +5942,7 @@
                 "H2KE-EN": "On gapjin day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 18일(갑진) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○甲辰/御經筵。"
             }
@@ -5859,6 +5968,7 @@
                 "H2KE-EN": "On muja day, [the King (Sejong] conducted state affairs and attended the Royal Lecture .\n",
                 "H2KE-nKo": "무자년(1768, 영조44)의 정사를 보고 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 2일(무자) 1번째기사",
+                "gt-EN": "On gapja day, the King conducted state affairs and attended the Royal Lectures.",
                 "gt-oKo": "정사를 보고 경연에 나아갔다.",
                 "hj": "○戊子/視事, 經筵。"
             },
@@ -5900,6 +6010,7 @@
                 "H2KE-EN": "On musin day, [the King] attended the Royal Lectures [on the Confucian classics].\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 22일(무신) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○戊申/御經筵。"
             },
@@ -5914,6 +6025,7 @@
                 "H2KE-EN": "On giyu day, [the King] attended the Royal Lectures [on the Confucian classics].\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 23일(기유) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○己酉/御經筵。"
             }
@@ -5923,6 +6035,7 @@
                 "H2KE-EN": "On gyeongsul day, the King conducted state affairs and attended the Royal Lecture.\n",
                 "H2KE-nKo": "경술년(1790, 정조14)의 도목 정사를 보고 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 24일(경술) 1번째기사",
+                "gt-EN": "On gapja day, the King conducted state affairs and attended the Royal Lectures.",
                 "gt-oKo": "정사를 보고 경연에 나아갔다.",
                 "hj": "○庚戌/視事, 經筵。"
             },
@@ -6026,6 +6139,7 @@
                 "H2KE-EN": "On gichuk day, the King attended the Royal Lecture on the Confucian classics in the gichuk year (.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 3일(기축) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○己丑/御經筵。"
             },
@@ -6056,6 +6170,7 @@
                 "H2KE-EN": "On sinhae day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 5일(신묘) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○辛卯/御經筵。"
             }
@@ -6072,6 +6187,7 @@
                 "H2KE-EN": "On gyemyo day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 6일(임진) 2번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○御經筵。"
             },
@@ -6095,6 +6211,7 @@
                 "H2KE-EN": "On gyesa day, the King attended the Royal Lecture on the gyesa year (.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 7일(계사) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○癸巳/御經筵。"
             },
@@ -6118,6 +6235,7 @@
                 "H2KE-EN": "On gabo day, [the King] conducted state affairs and attended the Royal Lecture on the gabo year (.\n",
                 "H2KE-nKo": "갑오년(1774, 영조50)에 정사를 보고 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 8일(갑오) 1번째기사",
+                "gt-EN": "On gapja day, the King conducted state affairs and attended the Royal Lectures.",
                 "gt-oKo": "정사를 보고 경연에 나아갔다.",
                 "hj": "○甲午/視事, 經筵。"
             }
@@ -6127,6 +6245,7 @@
                 "H2KE-EN": "On eulmi day, the King attended the Royal Lecture.\n",
                 "H2KE-nKo": "경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 11월 9일(을미) 1번째기사",
+                "gt-EN": "The King attended the Royal Lecture.",
                 "gt-oKo": "경연에 나아갔다.",
                 "hj": "○乙未/御經筵。"
             },
@@ -6246,6 +6365,7 @@
                 "H2KE-EN": "On gapjin day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "주상이 갑술년(1754, 영조30)의 친상을 행하였다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 12월 17일(갑술) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○甲戌/視事。"
             },
@@ -6448,6 +6568,7 @@
                 "H2KE-EN": "On eulyu day, the King conducted state affairs, granted a rotational audience, and attended the Royal Lecture.\n",
                 "H2KE-nKo": "을유년(1765, 영조41)에 정사를 보고 윤대를 행하고 경연에 나아갔다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 12월 28일(을유) 1번째기사",
+                "gt-EN": "The King conducted state affairs, attended the Royal Lecture, and received the officials in rotation.",
                 "gt-oKo": "정사를 보고, 경연에 나아가고, 윤대(輪對)를 행하였다.",
                 "hj": "○乙酉/視事, 輪對, 經筵。"
             }
@@ -6457,6 +6578,7 @@
                 "H2KE-EN": "On sinchuk day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "경신년(1780, 정조14)의 정사를 보았다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 12월 3일(경신) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○庚申/視事。"
             }
@@ -6475,6 +6597,7 @@
                 "H2KE-EN": "On gyehae day, [the King] conducted state affairs.\n",
                 "H2KE-nKo": "차대를 행하였다.\n",
                 "date_ko": "세종 79권, 19년(1437 정사 / 명 정통(正統) 2년) 12월 6일(계해) 1번째기사",
+                "gt-EN": "On eulmyo day, the King conducted state affairs.",
                 "gt-oKo": "정사를 보았다.",
                 "hj": "○癸亥/視事。"
             }
