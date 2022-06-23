@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect } from 'react';
 import {Button, Table} from 'react-bootstrap'
 
 function Item(props) {
@@ -27,11 +27,7 @@ function Item(props) {
                         (props.gt_en)
                         ?    <tr>
                         <th> gt-EN </th>
-<<<<<<< HEAD
-                        <td> {props.gt_nko} </td>
-=======
                         <td> {props.gt_en} </td>
->>>>>>> test
                         </tr>
                         : null
                     }
